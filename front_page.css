@@ -1,0 +1,33 @@
+body {
+  font-family:Arial, sans-serif;
+  margin:0;
+  background #f9f9f9;
+  color: beige;
+}
+
+.backgroundVideo {
+  position: fixed;
+  top: 0;
+  left:0;
+  width: 100%;
+ height:100%;
+  z-index:-100;
+  overflow: hidden;
+}
+
+#backgroundVideo {
+  width: 100%;
+  height: 100%;                           
+  object-fit: cover;
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;                                           
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: -99;
+}
