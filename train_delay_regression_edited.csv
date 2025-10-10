@@ -1,0 +1,2714 @@
+train_name,route,temperature,weather,day_of_week,holiday,delay_minutes
+Ruhunu Kumari,Matara-Maradana,29,cloudy,Tuesday,No,13
+Samudra Devi,Maradana-Galle,25,rainy,Monday,No,18
+Rajarata Rejini,Colombo-Vavuniya,34,sunny,Friday,No,15
+Udaya Devi,Colombo-Jaffna,29,sunny,Saturday,Yes,12
+Rajarata Rejini,Colombo-Vavuniya,18,rainy,Tuesday,No,33
+Intercity Express,Batticaloa-Colombo,22,cloudy,Friday,No,8
+Ruhunu Kumari,Matara-Maradana,27,cloudy,Monday,No,11
+Samudra Devi,Maradana-Galle,28,cloudy,Sunday,No,8
+Yal Devi,MT-Lavania-Kankesanturai,28,sunny,Monday,No,22
+Podi Menike,Colombo-Kandy,20,rainy,Thursday,No,31
+Udaya Devi,Colombo-Matara,27,cloudy,Wednesday,No,5
+Podi Menike,Matara-Colombo,24,cloudy,Tuesday,Yes,10
+Udaya Devi,Anuradhapura-Colombo,24,cloudy,Saturday,No,7
+Ruhunu Kumari,Matara-Maradana,33,sunny,Thursday,No,14
+Podi Menike,Kandy-Colombo,18,rainy,Sunday,Yes,12
+Rajarata Rejini,Colombo-Vavuniya,28,cloudy,Wednesday,Yes,15
+Rajarata Rejini,Colombo-Vavuniya,31,sunny,Tuesday,No,21
+Rajarata Rejini,Colombo-Vavuniya,34,sunny,Friday,No,19
+Samudra Devi,Maradana-Galle,29,sunny,Friday,Yes,11
+Ruhunu Kumari,Maradana-Matara,22,rainy,Wednesday,No,39
+Samudra Devi,Galle-Maradana,18,rainy,Thursday,No,46
+Rajarata Rejini,Colombo-Vavuniya,29,sunny,Monday,No,16
+Ruhunu Kumari,Matara-Maradana,24,sunny,Sunday,No,0
+Yal Devi,Matara-Colombo,22,rainy,Thursday,No,34
+Podi Menike,Galle-Colombo,25,cloudy,Tuesday,Yes,9
+Ruhunu Kumari,Maradana-Matara,28,sunny,Saturday,No,5
+Rajarata Rejini,Colombo-Vavuniya,35,sunny,Thursday,Yes,16
+Rajarata Rejini,Colombo-Vavuniya,24,sunny,Tuesday,No,20
+Intercity Express,Batticaloa-Colombo,25,cloudy,Monday,No,7
+Yal Devi,Matara-Colombo,32,sunny,Wednesday,No,14
+Samudra Devi,Maradana-Galle,26,sunny,Tuesday,No,11
+Udarata Menike,Colombo-Kandy,32,sunny,Sunday,No,7
+Ruhunu Kumari,Matara-Maradana,23,cloudy,Monday,No,4
+Intercity Express,Colombo-Kandy,24,sunny,Thursday,No,8
+Rajarata Rejini,Colombo-Vavuniya,26,sunny,Saturday,No,8
+Udarata Menike,Colombo-Jaffna,29,sunny,Monday,No,14
+Yal Devi,Colombo-Batticaloa,23,rainy,Sunday,No,31
+Ruhunu Kumari,Maradana-Maradana,29,cloudy,Sunday,No,2
+Samudra Devi,Maradana-Galle,33,sunny,Wednesday,No,3
+Udarata Menike,Badulla–Colombo,25,sunny,Wednesday,No,4
+Yal Devi,Colombo-Badulla,32,sunny,Tuesday,No,5
+Podi Menike,Colombo-Anuradhapura,26,rainy,Sunday,No,15
+Udarata Menike,Badulla–Colombo,27,rainy,Monday,No,19
+Intercity Express,Colombo-Jaffna,25,cloudy,Saturday,No,0
+Udarata Menike,Badulla–Colombo,31,sunny,Wednesday,No,12
+Udaya Devi,Colombo-Batticaloa,27,cloudy,Saturday,No,0
+Podi Menike,Jaffna-Colombo,29,cloudy,Sunday,Yes,6
+Udaya Devi,Kandy-Colombo,22,cloudy,Saturday,No,0
+Ruhunu Kumari,Matara-Maradana,28,cloudy,Thursday,Yes,6
+Udaya Devi,Matara-Colombo,31,rainy,Monday,No,22
+Udaya Devi,Colombo-Anuradhapura,35,sunny,Tuesday,No,13
+Udarata Menike,Badulla–Colombo,34,cloudy,Friday,No,3
+Ruhunu Kumari,Maradana-Matara,30,sunny,Tuesday,No,5
+Udaya Devi,Colombo-Kandy,27,cloudy,Friday,No,4
+Podi Menike,Matara-Colombo,25,rainy,Wednesday,Yes,21
+Udaya Devi,Galle-Colombo,26,cloudy,Sunday,No,9
+Podi Menike,Colombo-Anuradhapura,32,cloudy,Monday,Yes,8
+Samudra Devi,Maradana-Galle,21,cloudy,Wednesday,No,11
+Samudra Devi,Galle-Maradana,33,cloudy,Friday,No,10
+Rajarata Rejini,Colombo-Vavuniya,27,sunny,Monday,No,13
+Rajarata Rejini,Colombo-Vavuniya,34,sunny,Monday,No,18
+Rajarata Rejini,Colombo-Vavuniya,24,rainy,Wednesday,No,40
+Udaya Devi,Colombo-Badulla,32,sunny,Thursday,No,10
+Yal Devi,Colombo-Jaffna,26,rainy,Thursday,No,46
+Udarata Menike,Badulla–Colombo,29,cloudy,Friday,Yes,16
+Udaya Devi,Colombo-Kandy,32,cloudy,Friday,Yes,15
+Ruhunu Kumari,Maradana-Matara,30,sunny,Tuesday,No,13
+Intercity Express,Anuradhapura-Colombo,26,cloudy,Sunday,No,16
+Rajarata Rejini,Colombo-Vavuniya,31,sunny,Monday,No,18
+Podi Menike,Anuradhapura-Colombo,35,sunny,Tuesday,No,21
+Samudra Devi,Maradana-Galle,34,sunny,Monday,No,19
+Udarata Menike,Badulla–Colombo,22,rainy,Friday,No,33
+Podi Menike,Colombo-Anuradhapura,29,cloudy,Sunday,No,11
+Intercity Express,Galle-Colombo,27,rainy,Saturday,No,14
+Samudra Devi,Maradana-Galle,26,cloudy,Friday,No,10
+Ruhunu Kumari,Maradana-Matara,25,sunny,Friday,No,19
+Udaya Devi,AnuradhapuraColombo,26,sunny,Sunday,No,21
+Rajarata Rejini,Colombo-Vavuniya,25,rainy,Tuesday,No,32
+Ruhunu Kumari,Matara-Maradana,29,sunny,Monday,No,16
+Ruhunu Kumari,Matara-Maradana,24,rainy,Saturday,No,15
+Ruhunu Kumari,Maradana-Matara,34,cloudy,Monday,No,12
+Udarata Menike,Galle-Colombo,26,cloudy,Wednesday,No,9
+Yal Devi,Colombo-Badulla,27,cloudy,Tuesday,No,11
+Samudra Devi,Maradana-Galle,27,sunny,Friday,No,15
+Samudra Devi,Maradana-Galle,28,sunny,Saturday,No,23
+Intercity Express,Colombo-Anuradhapura,25,cloudy,Tuesday,No,14
+Intercity Express,Colombo-Matara,25,rainy,Sunday,Yes,13
+Samudra Devi,Galle-Maradana,23,rainy,Wednesday,No,34
+Rajarata Rejini,Colombo-Vavuniya,32,cloudy,Wednesday,Yes,12
+Ruhunu Kumari,Maradana-Matara,25,rainy,Tuesday,No,44
+Samudra Devi,Maradana-Galle,34,sunny,Saturday,No,1
+Rajarata Rejini,Colombo-Vavuniya,26,rainy,Thursday,No,37
+Intercity Express,Matara-Colombo,31,sunny,Thursday,No,18
+Udarata Menike,Badulla–Colombo,29,cloudy,Friday,No,14
+Podi Menike,Galle-Colombo,25,rainy,Monday,Yes,20
+Yal Devi,Kandy-Colombo,26,rainy,Tuesday,No,28
+Samudra Devi,Maradana-Galle,31,sunny,Sunday,No,2
+Rajarata Rejini,Colombo-Vavuniya,27,cloudy,Thursday,No,12
+Udaya Devi,Colombo-Matara,24,cloudy,Wednesday,No,9
+Ruhunu Kumari,Maradana-Matara,30,cloudy,Wednesday,Yes,4
+Rajarata Rejini,Colombo-Vavuniya,24,rainy,Saturday,No,11
+Udaya Devi,Galle-Colombo,29,cloudy,Saturday,Yes,12
+Udarata Menike,Jaffna-Colombo,26,cloudy,Monday,No,8
+Ruhunu Kumari,Matara-Maradana,27,cloudy,Monday,No,15
+Ruhunu Kumari,Matara-Maradana,33,sunny,Monday,No,17
+Ruhunu Kumari,Matara-Maradana,24,rainy,Monday,No,23
+Ruhunu Kumari,Matara-Maradana,26,cloudy,Monday,Yes,6
+Ruhunu Kumari,Matara-Maradana,25,rainy,Monday,Yes,19
+Ruhunu Kumari,Matara-Maradana,34,sunny,Monday,Yes,13
+Ruhunu Kumari,Matara-Maradana,26,cloudy,Monday,No,14
+Ruhunu Kumari,Matara-Maradana,34,sunny,Monday,No,18
+Ruhunu Kumari,Matara-Maradana,22,rainy,Monday,No,25
+Ruhunu Kumari,Matara-Maradana,27,cloudy,Monday,Yes,8
+Ruhunu Kumari,Matara-Maradana,23,rainy,Monday,Yes,21
+Ruhunu Kumari,Matara-Maradana,36,sunny,Monday,Yes,14
+Ruhunu Kumari,Matara-Maradana,25,cloudy,Monday,No,11
+Ruhunu Kumari,Matara-Maradana,30,sunny,Monday,No,15
+Ruhunu Kumari,Matara-Maradana,24,rainy,Monday,No,25
+Ruhunu Kumari,Matara-Maradana,28,cloudy,Monday,Yes,8
+Ruhunu Kumari,Matara-Maradana,23,rainy,Monday,Yes,19
+Ruhunu Kumari,Matara-Maradana,24,sunny,Monday,Yes,12
+Ruhunu Kumari,Maradana-Galle,25,cloudy,Monday,No,16
+Ruhunu Kumari,Maradana-Galle,32,sunny,Monday,No,18
+Ruhunu Kumari,Maradana-Galle,24,rainy,Monday,No,21
+Ruhunu Kumari,Maradana-Galle,25,cloudy,Monday,Yes,10
+Ruhunu Kumari,Maradana-Galle,21,rainy,Monday,Yes,24
+Ruhunu Kumari,Maradana-Galle,24,sunny,Monday,Yes,12
+Ruhunu Kumari,Maradana-Galle,27,cloudy,Monday,No,16
+Ruhunu Kumari,Maradana-Galle,34,sunny,Monday,No,18
+Ruhunu Kumari,Maradana-Galle,24,rainy,Monday,No,21
+Ruhunu Kumari,Maradana-Galle,29,cloudy,Monday,Yes,10
+Ruhunu Kumari,Maradana-Galle,25,rainy,Monday,Yes,24
+Ruhunu Kumari,Maradana-Galle,34,sunny,Monday,Yes,12
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Tuesday,Yes,16
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Wednesday,No,1
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Thursday,No,43
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Friday,No,3
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Saturday,No,16
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Sunday,No,45
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Monday,No,20
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Monday,No,8
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Monday,No,15
+Ruhunu Kumari,Matara - Maradana,32,Windy,Monday,No,13
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Monday,No,2
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Monday,No,26
+Ruhunu Kumari,Matara - Maradana,32,Windy,Monday,No,19
+Ruhunu Kumari,Matara - Maradana,34,Windy,Monday,No,24
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Monday,No,30
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Monday,No,1
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Monday,No,15
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Monday,No,8
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Monday,No,18
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Monday,No,25
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Monday,No,9
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Monday,No,16
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Monday,No,8
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Monday,No,1
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Monday,No,2
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Monday,No,1
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Monday,No,0
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Monday,No,9
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Monday,No,43
+Ruhunu Kumari,Matara - Maradana,29,Windy,Monday,No,25
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Monday,Yes,40
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Monday,No,5
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Monday,No,25
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Monday,No,20
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Monday,No,40
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Monday,No,59
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Monday,No,0
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Monday,No,23
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Monday,No,2
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Monday,No,4
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Monday,No,13
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Monday,No,17
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Monday,No,19
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Monday,No,5
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Monday,No,18
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Monday,No,3
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Monday,No,0
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Monday,Yes,1
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Monday,No,49
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Monday,No,22
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Monday,No,8
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Monday,No,12
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Monday,No,5
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Monday,No,20
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Monday,No,28
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Monday,Yes,5
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Tuesday,No,45
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Tuesday,No,20
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Tuesday,No,59
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Tuesday,No,23
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Tuesday,No,17
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Tuesday,No,5
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Tuesday,No,23
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Tuesday,No,24
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Tuesday,Yes,17
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Tuesday,No,16
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Tuesday,No,56
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Tuesday,No,0
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Tuesday,Yes,56
+Ruhunu Kumari,Matara - Maradana,33,Windy,Tuesday,No,16
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Tuesday,Yes,9
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Tuesday,No,13
+Ruhunu Kumari,Matara - Maradana,34,Rainy,Tuesday,No,42
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Tuesday,No,17
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Tuesday,No,10
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Tuesday,No,5
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Tuesday,No,29
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Tuesday,No,50
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Tuesday,Yes,19
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Tuesday,No,0
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Tuesday,No,7
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Tuesday,No,20
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Tuesday,No,43
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Tuesday,No,5
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Tuesday,No,25
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Tuesday,No,46
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Tuesday,No,22
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Tuesday,No,46
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Tuesday,No,13
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Tuesday,No,25
+Ruhunu Kumari,Matara - Maradana,28,Cloudy,Tuesday,No,12
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Tuesday,Yes,24
+Ruhunu Kumari,Matara - Maradana,32,Windy,Tuesday,No,19
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Tuesday,No,12
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Tuesday,No,26
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Tuesday,No,12
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Tuesday,No,22
+Ruhunu Kumari,Matara - Maradana,34,Windy,Tuesday,No,14
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Tuesday,No,14
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Tuesday,Yes,7
+Ruhunu Kumari,Matara - Maradana,33,Windy,Tuesday,No,23
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Tuesday,No,28
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Tuesday,No,6
+Ruhunu Kumari,Matara - Maradana,28,Cloudy,Tuesday,No,24
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Tuesday,Yes,20
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Tuesday,Yes,14
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Wednesday,Yes,20
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Wednesday,No,3
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Wednesday,No,51
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Wednesday,No,11
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Wednesday,No,16
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Wednesday,No,8
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Wednesday,No,16
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Wednesday,No,12
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Wednesday,No,55
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Wednesday,No,13
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Wednesday,No,4
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Wednesday,No,43
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Wednesday,No,25
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Wednesday,No,41
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Wednesday,No,24
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Wednesday,Yes,16
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Wednesday,No,21
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Wednesday,Yes,20
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Wednesday,No,20
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Wednesday,No,16
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Wednesday,No,16
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Wednesday,No,11
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Wednesday,No,28
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Wednesday,No,12
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Wednesday,No,58
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Wednesday,No,14
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Wednesday,No,18
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Wednesday,No,40
+Ruhunu Kumari,Matara - Maradana,28,Cloudy,Wednesday,Yes,23
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Wednesday,No,12
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Wednesday,No,46
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Wednesday,No,1
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Wednesday,No,15
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Wednesday,No,3
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Wednesday,No,14
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Wednesday,No,59
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Wednesday,No,17
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Wednesday,No,31
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Wednesday,No,20
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Wednesday,Yes,23
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Wednesday,No,0
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Wednesday,No,22
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Wednesday,Yes,45
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Wednesday,No,20
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Wednesday,Yes,6
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Wednesday,No,11
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Wednesday,No,25
+Ruhunu Kumari,Matara - Maradana,33,Windy,Wednesday,Yes,18
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Wednesday,No,15
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Wednesday,No,4
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Thursday,No,19
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Thursday,No,24
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Thursday,No,49
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Thursday,No,25
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Thursday,No,4
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Thursday,Yes,16
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Thursday,No,3
+Ruhunu Kumari,Matara - Maradana,34,Rainy,Thursday,No,28
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Thursday,No,10
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Thursday,No,3
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Thursday,No,9
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Thursday,No,52
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Thursday,No,23
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Thursday,No,60
+Ruhunu Kumari,Matara - Maradana,28,Cloudy,Thursday,No,24
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Thursday,Yes,25
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Thursday,No,7
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Thursday,No,21
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Thursday,No,49
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Thursday,No,19
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Thursday,No,11
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Thursday,No,12
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Thursday,No,4
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Thursday,No,58
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Thursday,No,30
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Thursday,No,41
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Thursday,No,25
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Thursday,No,59
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Thursday,No,15
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Thursday,No,29
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Thursday,No,23
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Thursday,No,20
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Thursday,No,5
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Thursday,No,51
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Thursday,No,12
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Thursday,No,20
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Thursday,No,36
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Thursday,No,13
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Thursday,No,5
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Thursday,No,1
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Thursday,No,22
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Thursday,No,41
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Thursday,No,35
+Ruhunu Kumari,Matara - Maradana,29,Windy,Thursday,No,6
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Thursday,No,7
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Thursday,No,14
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Thursday,No,6
+Ruhunu Kumari,Matara - Maradana,34,Rainy,Thursday,No,22
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Thursday,No,21
+Ruhunu Kumari,Matara - Maradana,33,Windy,Thursday,Yes,13
+Ruhunu Kumari,Matara - Maradana,28,Cloudy,Friday,Yes,18
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Friday,No,5
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Friday,No,7
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Friday,No,23
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Friday,No,25
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Friday,No,17
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Friday,No,1
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Friday,Yes,3
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Friday,No,2
+Ruhunu Kumari,Matara - Maradana,34,Rainy,Friday,No,53
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Friday,No,25
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Friday,No,1
+Ruhunu Kumari,Matara - Maradana,28,Cloudy,Friday,No,17
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Friday,No,16
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Friday,No,4
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Friday,Yes,10
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Friday,No,33
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Friday,No,18
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Friday,No,4
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Friday,No,1
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Friday,No,33
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Friday,No,9
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Friday,No,19
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Friday,No,1
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Friday,No,57
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Friday,No,25
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Friday,No,17
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Friday,No,36
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Friday,No,18
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Friday,No,24
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Friday,No,6
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Friday,No,33
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Friday,No,20
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Friday,No,20
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Friday,No,1
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Friday,No,4
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Friday,No,10
+Ruhunu Kumari,Matara - Maradana,29,Windy,Friday,No,0
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Friday,No,1
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Friday,No,5
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Friday,No,14
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Friday,No,4
+Ruhunu Kumari,Matara - Maradana,28,Cloudy,Friday,No,14
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Friday,No,48
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Friday,Yes,21
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Friday,No,55
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Friday,No,16
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Friday,No,3
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Friday,No,18
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Friday,Yes,25
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Saturday,No,20
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Saturday,No,17
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Saturday,No,51
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Saturday,No,22
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Saturday,No,54
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Saturday,Yes,39
+Ruhunu Kumari,Matara - Maradana,28,Rainy,Saturday,No,41
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Saturday,Yes,51
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Saturday,No,32
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Saturday,No,11
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Saturday,No,33
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Saturday,No,35
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Saturday,Yes,33
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Saturday,No,11
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Saturday,No,30
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Saturday,No,56
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Saturday,No,35
+Ruhunu Kumari,Matara - Maradana,30,Windy,Saturday,No,20
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Saturday,Yes,12
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Saturday,No,35
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Saturday,No,19
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Saturday,No,20
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Saturday,No,31
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Saturday,No,37
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Saturday,No,57
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Saturday,Yes,24
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Saturday,No,34
+Ruhunu Kumari,Matara - Maradana,34,Rainy,Saturday,No,56
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Saturday,No,15
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Saturday,No,21
+Ruhunu Kumari,Matara - Maradana,31,Windy,Saturday,No,27
+Ruhunu Kumari,Matara - Maradana,29,Rainy,Saturday,No,26
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Saturday,No,11
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Saturday,No,21
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Saturday,Yes,11
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Saturday,No,36
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Saturday,Yes,33
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Saturday,No,39
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Saturday,No,22
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Saturday,No,14
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Saturday,No,17
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Saturday,No,34
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Saturday,No,16
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Saturday,No,20
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Saturday,No,16
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Saturday,No,35
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Saturday,No,27
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Saturday,No,17
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Saturday,No,34
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Saturday,No,37
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Sunday,No,14
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Sunday,No,51
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Sunday,No,37
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Sunday,No,23
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Sunday,No,10
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Sunday,No,15
+Ruhunu Kumari,Matara - Maradana,31,Rainy,Sunday,No,17
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Sunday,No,20
+Ruhunu Kumari,Matara - Maradana,30,Rainy,Sunday,Yes,57
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Sunday,No,17
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Sunday,No,40
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Sunday,No,38
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Sunday,No,13
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Sunday,No,18
+Ruhunu Kumari,Matara - Maradana,28,Sunny,Sunday,No,21
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Sunday,No,14
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Sunday,Yes,28
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Sunday,No,29
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Sunday,No,29
+Ruhunu Kumari,Matara - Maradana,32,Cloudy,Sunday,No,12
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Sunday,No,34
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Sunday,No,24
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Sunday,No,28
+Ruhunu Kumari,Matara - Maradana,30,Cloudy,Sunday,No,39
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Sunday,No,31
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Sunday,No,25
+Ruhunu Kumari,Matara - Maradana,28,Cloudy,Sunday,No,10
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Sunday,No,26
+Ruhunu Kumari,Matara - Maradana,31,Sunny,Sunday,Yes,20
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Sunday,No,40
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Sunday,No,20
+Ruhunu Kumari,Matara - Maradana,32,Windy,Sunday,No,39
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Sunday,No,22
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Sunday,No,40
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Sunday,No,36
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Sunday,Yes,33
+Ruhunu Kumari,Matara - Maradana,34,Sunny,Sunday,No,14
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Sunday,No,16
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Sunday,No,32
+Ruhunu Kumari,Matara - Maradana,33,Rainy,Sunday,No,25
+Ruhunu Kumari,Matara - Maradana,34,Cloudy,Sunday,Yes,20
+Ruhunu Kumari,Matara - Maradana,29,Cloudy,Sunday,Yes,14
+Ruhunu Kumari,Matara - Maradana,32,Sunny,Sunday,No,28
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Sunday,Yes,36
+Ruhunu Kumari,Matara - Maradana,33,Sunny,Sunday,No,33
+Ruhunu Kumari,Matara - Maradana,31,Cloudy,Sunday,No,37
+Ruhunu Kumari,Matara - Maradana,32,Rainy,Sunday,No,33
+Ruhunu Kumari,Matara - Maradana,30,Sunny,Sunday,No,13
+Ruhunu Kumari,Matara - Maradana,29,Sunny,Sunday,Yes,22
+Ruhunu Kumari,Matara - Maradana,33,Cloudy,Sunday,No,38
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Monday,No,11
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Monday,No,7
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Monday,No,21
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Monday,No,17
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Monday,No,14
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Monday,No,5
+Rajarata Rejini,Colombo - Vavuniya,31,Cloudy,Monday,No,26
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Monday,No,29
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Monday,No,44
+Rajarata Rejini,Colombo - Vavuniya,28,Rainy,Monday,No,62
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Monday,No,1
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Monday,No,15
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Monday,No,1
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Monday,No,18
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Monday,No,44
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Monday,No,7
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Monday,No,22
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Monday,No,26
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Monday,No,27
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Monday,No,21
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Monday,No,4
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Monday,No,23
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Monday,No,27
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Monday,No,28
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Monday,No,26
+Rajarata Rejini,Colombo - Vavuniya,28,Rainy,Monday,No,20
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Monday,No,28
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Monday,No,1
+Rajarata Rejini,Colombo - Vavuniya,33,Rainy,Monday,No,60
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Monday,No,14
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Monday,No,22
+Rajarata Rejini,Colombo - Vavuniya,33,Rainy,Monday,No,45
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Monday,No,10
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Monday,No,30
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Monday,No,15
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Monday,No,21
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Monday,Yes,17
+Rajarata Rejini,Colombo - Vavuniya,31,Rainy,Monday,Yes,53
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Monday,No,24
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Monday,No,32
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Monday,No,23
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Monday,No,22
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Monday,No,8
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Monday,No,15
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Monday,No,35
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Monday,No,4
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Monday,No,19
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Monday,No,19
+Rajarata Rejini,Colombo - Vavuniya,33,Rainy,Monday,No,48
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Monday,No,4
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Tuesday,No,7
+Rajarata Rejini,Colombo - Vavuniya,28,Windy,Tuesday,Yes,16
+Rajarata Rejini,Colombo - Vavuniya,29,Rainy,Tuesday,No,59
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Tuesday,Yes,16
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Tuesday,No,21
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Tuesday,No,12
+Rajarata Rejini,Colombo - Vavuniya,31,Cloudy,Tuesday,No,10
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Tuesday,No,22
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Tuesday,No,4
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Tuesday,No,15
+Rajarata Rejini,Colombo - Vavuniya,33,Rainy,Tuesday,No,63
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Tuesday,No,10
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Tuesday,No,11
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Tuesday,No,17
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Tuesday,No,0
+Rajarata Rejini,Colombo - Vavuniya,29,Windy,Tuesday,No,28
+Rajarata Rejini,Colombo - Vavuniya,33,Rainy,Tuesday,No,59
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Tuesday,No,0
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Tuesday,No,30
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Tuesday,No,13
+Rajarata Rejini,Colombo - Vavuniya,29,Rainy,Tuesday,No,57
+Rajarata Rejini,Colombo - Vavuniya,28,Rainy,Tuesday,No,26
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Tuesday,No,30
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Tuesday,No,3
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Tuesday,No,18
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Tuesday,No,12
+Rajarata Rejini,Colombo - Vavuniya,31,Cloudy,Tuesday,No,29
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Tuesday,No,26
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Tuesday,No,17
+Rajarata Rejini,Colombo - Vavuniya,28,Rainy,Tuesday,No,56
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Tuesday,No,29
+Rajarata Rejini,Colombo - Vavuniya,27,Windy,Tuesday,No,22
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Tuesday,No,21
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Tuesday,Yes,30
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Tuesday,No,2
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Tuesday,No,26
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Tuesday,Yes,9
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Tuesday,No,6
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Tuesday,No,13
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Tuesday,No,14
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Tuesday,No,35
+Rajarata Rejini,Colombo - Vavuniya,31,Windy,Tuesday,Yes,26
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Tuesday,No,24
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Tuesday,No,21
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Tuesday,No,9
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Tuesday,No,20
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Tuesday,No,26
+Rajarata Rejini,Colombo - Vavuniya,31,Cloudy,Tuesday,No,15
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Tuesday,No,11
+Rajarata Rejini,Colombo - Vavuniya,27,Windy,Tuesday,No,1
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Wednesday,No,9
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Wednesday,No,8
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Wednesday,No,22
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Wednesday,No,4
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Wednesday,No,27
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Wednesday,Yes,25
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Wednesday,No,19
+Rajarata Rejini,Colombo - Vavuniya,30,Windy,Wednesday,No,30
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Wednesday,No,0
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Wednesday,No,45
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Wednesday,No,37
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Wednesday,No,15
+Rajarata Rejini,Colombo - Vavuniya,31,Rainy,Wednesday,No,29
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Wednesday,No,63
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Wednesday,No,23
+Rajarata Rejini,Colombo - Vavuniya,29,Rainy,Wednesday,No,22
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Wednesday,No,17
+Rajarata Rejini,Colombo - Vavuniya,29,Windy,Wednesday,Yes,19
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Wednesday,No,30
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Wednesday,No,57
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Wednesday,No,12
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Wednesday,Yes,6
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Wednesday,No,26
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Wednesday,No,36
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Wednesday,No,10
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Wednesday,No,8
+Rajarata Rejini,Colombo - Vavuniya,31,Rainy,Wednesday,No,59
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Wednesday,No,64
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Wednesday,No,22
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Wednesday,No,21
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Wednesday,No,25
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Wednesday,Yes,17
+Rajarata Rejini,Colombo - Vavuniya,31,Windy,Wednesday,No,24
+Rajarata Rejini,Colombo - Vavuniya,28,Rainy,Wednesday,No,35
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Wednesday,No,1
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Wednesday,No,13
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Wednesday,No,30
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Wednesday,No,3
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Wednesday,No,10
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Wednesday,No,15
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Wednesday,Yes,0
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Wednesday,No,30
+Rajarata Rejini,Colombo - Vavuniya,29,Rainy,Wednesday,No,52
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Wednesday,No,16
+Rajarata Rejini,Colombo - Vavuniya,30,Windy,Wednesday,No,26
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Wednesday,No,9
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Wednesday,No,9
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Wednesday,No,10
+Rajarata Rejini,Colombo - Vavuniya,31,Cloudy,Wednesday,No,19
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Wednesday,No,25
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Thursday,No,3
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Thursday,No,27
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Thursday,No,44
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Thursday,No,1
+Rajarata Rejini,Colombo - Vavuniya,33,Rainy,Thursday,No,54
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Thursday,No,30
+Rajarata Rejini,Colombo - Vavuniya,32,Windy,Thursday,No,11
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Thursday,No,43
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Thursday,No,56
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Thursday,No,2
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Thursday,Yes,4
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Thursday,No,53
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Thursday,No,30
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Thursday,No,17
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Thursday,Yes,20
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Thursday,No,15
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Thursday,No,10
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Thursday,No,11
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Thursday,Yes,44
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Thursday,No,26
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Thursday,Yes,13
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Thursday,No,21
+Rajarata Rejini,Colombo - Vavuniya,33,Windy,Thursday,No,19
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Thursday,No,1
+Rajarata Rejini,Colombo - Vavuniya,33,Windy,Thursday,Yes,10
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Thursday,No,13
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Thursday,No,3
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Thursday,No,11
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Thursday,No,56
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Thursday,No,21
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Thursday,No,3
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Thursday,No,37
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Thursday,No,40
+Rajarata Rejini,Colombo - Vavuniya,31,Cloudy,Thursday,Yes,7
+Rajarata Rejini,Colombo - Vavuniya,30,Windy,Thursday,No,11
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Thursday,No,17
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Thursday,No,27
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Thursday,Yes,62
+Rajarata Rejini,Colombo - Vavuniya,33,Rainy,Thursday,No,46
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Thursday,No,15
+Rajarata Rejini,Colombo - Vavuniya,29,Rainy,Thursday,No,43
+Rajarata Rejini,Colombo - Vavuniya,28,Rainy,Thursday,No,23
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Thursday,No,12
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Thursday,No,13
+Rajarata Rejini,Colombo - Vavuniya,33,Windy,Thursday,No,6
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Thursday,No,9
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Thursday,No,11
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Thursday,No,1
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Thursday,No,28
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Thursday,No,14
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Friday,Yes,22
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Friday,Yes,2
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Friday,No,13
+Rajarata Rejini,Colombo - Vavuniya,33,Rainy,Friday,No,54
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Friday,No,6
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Friday,No,31
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Friday,Yes,26
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Friday,No,3
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Friday,No,17
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Friday,No,15
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Friday,Yes,15
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Friday,No,14
+Rajarata Rejini,Colombo - Vavuniya,29,Windy,Friday,No,16
+Rajarata Rejini,Colombo - Vavuniya,31,Cloudy,Friday,Yes,18
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Friday,Yes,21
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Friday,No,18
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Friday,No,8
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Friday,No,25
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Friday,No,18
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Friday,No,19
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Friday,Yes,4
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Friday,No,14
+Rajarata Rejini,Colombo - Vavuniya,29,Rainy,Friday,Yes,20
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Friday,Yes,14
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Friday,No,20
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Friday,No,13
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Friday,No,23
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Friday,No,30
+Rajarata Rejini,Colombo - Vavuniya,29,Rainy,Friday,No,54
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Friday,No,14
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Friday,No,19
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Friday,No,28
+Rajarata Rejini,Colombo - Vavuniya,28,Windy,Friday,No,5
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Friday,No,18
+Rajarata Rejini,Colombo - Vavuniya,28,Rainy,Friday,No,36
+Rajarata Rejini,Colombo - Vavuniya,31,Rainy,Friday,No,49
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Friday,No,16
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Friday,No,10
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Friday,No,29
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Friday,No,8
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Friday,No,30
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Friday,No,48
+Rajarata Rejini,Colombo - Vavuniya,32,Windy,Friday,No,13
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Friday,No,0
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Friday,No,17
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Friday,No,54
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Friday,Yes,43
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Friday,No,14
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Friday,No,24
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Friday,No,28
+Rajarata Rejini,Colombo - Vavuniya,31,Cloudy,Saturday,No,30
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Saturday,No,63
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Saturday,No,45
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Saturday,No,16
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Saturday,No,44
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Saturday,No,37
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Saturday,No,38
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Saturday,No,32
+Rajarata Rejini,Colombo - Vavuniya,31,Rainy,Saturday,No,42
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Saturday,Yes,29
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Saturday,No,28
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Saturday,No,38
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Saturday,Yes,26
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Saturday,No,14
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Saturday,No,18
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Saturday,No,22
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Saturday,No,15
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Saturday,No,26
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Saturday,No,19
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Saturday,No,40
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Saturday,No,35
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Saturday,No,41
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Saturday,No,24
+Rajarata Rejini,Colombo - Vavuniya,31,Rainy,Saturday,No,44
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Saturday,No,41
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Saturday,No,15
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Saturday,No,31
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Saturday,No,10
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Saturday,No,30
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Saturday,No,44
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Saturday,No,20
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Saturday,No,15
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Saturday,No,44
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Saturday,No,17
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Saturday,No,25
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Saturday,No,28
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Saturday,No,18
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Saturday,No,51
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Saturday,No,62
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Saturday,No,30
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Saturday,No,32
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Saturday,No,17
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Saturday,No,19
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Saturday,No,41
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Saturday,No,41
+Rajarata Rejini,Colombo - Vavuniya,27,Sunny,Saturday,No,34
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Saturday,Yes,42
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Saturday,Yes,50
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Saturday,No,31
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Saturday,No,28
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Sunday,No,13
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Sunday,No,17
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Sunday,Yes,21
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Sunday,No,33
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Sunday,Yes,32
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Sunday,No,43
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Sunday,No,43
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Sunday,Yes,14
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Sunday,No,58
+Rajarata Rejini,Colombo - Vavuniya,31,Rainy,Sunday,No,49
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Sunday,No,45
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Sunday,Yes,10
+Rajarata Rejini,Colombo - Vavuniya,31,Cloudy,Sunday,No,13
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Sunday,No,22
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Sunday,No,20
+Rajarata Rejini,Colombo - Vavuniya,29,Cloudy,Sunday,No,11
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Sunday,No,30
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Sunday,No,13
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Sunday,No,35
+Rajarata Rejini,Colombo - Vavuniya,28,Rainy,Sunday,No,24
+Rajarata Rejini,Colombo - Vavuniya,31,Rainy,Sunday,No,20
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Sunday,Yes,17
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Sunday,No,28
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Sunday,No,21
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Sunday,No,21
+Rajarata Rejini,Colombo - Vavuniya,33,Rainy,Sunday,No,45
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Sunday,No,28
+Rajarata Rejini,Colombo - Vavuniya,33,Windy,Sunday,Yes,25
+Rajarata Rejini,Colombo - Vavuniya,32,Cloudy,Sunday,No,26
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Sunday,No,22
+Rajarata Rejini,Colombo - Vavuniya,27,Rainy,Sunday,No,27
+Rajarata Rejini,Colombo - Vavuniya,30,Cloudy,Sunday,No,28
+Rajarata Rejini,Colombo - Vavuniya,33,Cloudy,Sunday,No,43
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Sunday,No,22
+Rajarata Rejini,Colombo - Vavuniya,32,Rainy,Sunday,No,20
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Sunday,No,13
+Rajarata Rejini,Colombo - Vavuniya,29,Sunny,Sunday,No,39
+Rajarata Rejini,Colombo - Vavuniya,32,Windy,Sunday,No,32
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Sunday,No,41
+Rajarata Rejini,Colombo - Vavuniya,28,Sunny,Sunday,No,11
+Rajarata Rejini,Colombo - Vavuniya,30,Rainy,Sunday,No,21
+Rajarata Rejini,Colombo - Vavuniya,31,Rainy,Sunday,No,43
+Rajarata Rejini,Colombo - Vavuniya,28,Cloudy,Sunday,No,12
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Sunday,No,28
+Rajarata Rejini,Colombo - Vavuniya,32,Sunny,Sunday,No,11
+Rajarata Rejini,Colombo - Vavuniya,30,Sunny,Sunday,No,13
+Rajarata Rejini,Colombo - Vavuniya,31,Sunny,Sunday,No,28
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Sunday,No,29
+Rajarata Rejini,Colombo - Vavuniya,33,Sunny,Sunday,No,24
+Rajarata Rejini,Colombo - Vavuniya,27,Cloudy,Sunday,No,29
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Tuesday,Yes,16
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Wednesday,No,1
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Thursday,No,43
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Friday,No,3
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Saturday,No,16
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Sunday,No,45
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Monday,No,20
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Monday,No,8
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Monday,No,15
+Ruhunu Kumari,Maradana - Matara,32,Windy,Monday,No,13
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Monday,No,2
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Monday,No,26
+Ruhunu Kumari,Maradana - Matara,32,Windy,Monday,No,19
+Ruhunu Kumari,Maradana - Matara,34,Windy,Monday,No,24
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Monday,No,30
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Monday,No,1
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Monday,No,15
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Monday,No,8
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Monday,No,18
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Monday,No,25
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Monday,No,9
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Monday,No,16
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Monday,No,8
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Monday,No,1
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Monday,No,2
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Monday,No,1
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Monday,No,0
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Monday,No,9
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Monday,No,43
+Ruhunu Kumari,Maradana - Matara,29,Windy,Monday,No,25
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Monday,Yes,40
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Monday,No,5
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Monday,No,25
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Monday,No,20
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Monday,No,40
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Monday,No,59
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Monday,No,0
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Monday,No,23
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Monday,No,2
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Monday,No,4
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Monday,No,13
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Monday,No,17
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Monday,No,19
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Monday,No,5
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Monday,No,18
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Monday,No,3
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Monday,No,0
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Monday,Yes,1
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Monday,No,49
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Monday,No,22
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Monday,No,8
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Monday,No,12
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Monday,No,5
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Monday,No,20
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Monday,No,28
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Monday,Yes,5
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Tuesday,No,45
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Tuesday,No,20
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Tuesday,No,59
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Tuesday,No,23
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Tuesday,No,17
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Tuesday,No,5
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Tuesday,No,23
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Tuesday,No,24
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Tuesday,Yes,17
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Tuesday,No,16
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Tuesday,No,56
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Tuesday,No,0
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Tuesday,Yes,56
+Ruhunu Kumari,Maradana - Matara,33,Windy,Tuesday,No,16
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Tuesday,Yes,9
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Tuesday,No,13
+Ruhunu Kumari,Maradana - Matara,34,Rainy,Tuesday,No,42
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Tuesday,No,17
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Tuesday,No,10
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Tuesday,No,5
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Tuesday,No,29
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Tuesday,No,50
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Tuesday,Yes,19
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Tuesday,No,0
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Tuesday,No,7
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Tuesday,No,20
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Tuesday,No,43
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Tuesday,No,5
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Tuesday,No,25
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Tuesday,No,46
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Tuesday,No,22
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Tuesday,No,46
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Tuesday,No,13
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Tuesday,No,25
+Ruhunu Kumari,Maradana - Matara,28,Cloudy,Tuesday,No,12
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Tuesday,Yes,24
+Ruhunu Kumari,Maradana - Matara,32,Windy,Tuesday,No,19
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Tuesday,No,12
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Tuesday,No,26
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Tuesday,No,12
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Tuesday,No,22
+Ruhunu Kumari,Maradana - Matara,34,Windy,Tuesday,No,14
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Tuesday,No,14
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Tuesday,Yes,7
+Ruhunu Kumari,Maradana - Matara,33,Windy,Tuesday,No,23
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Tuesday,No,28
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Tuesday,No,6
+Ruhunu Kumari,Maradana - Matara,28,Cloudy,Tuesday,No,24
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Tuesday,Yes,20
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Tuesday,Yes,14
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Wednesday,Yes,20
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Wednesday,No,3
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Wednesday,No,51
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Wednesday,No,11
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Wednesday,No,16
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Wednesday,No,8
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Wednesday,No,16
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Wednesday,No,12
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Wednesday,No,55
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Wednesday,No,13
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Wednesday,No,4
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Wednesday,No,43
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Wednesday,No,25
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Wednesday,No,41
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Wednesday,No,24
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Wednesday,Yes,16
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Wednesday,No,21
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Wednesday,Yes,20
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Wednesday,No,20
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Wednesday,No,16
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Wednesday,No,16
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Wednesday,No,11
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Wednesday,No,28
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Wednesday,No,12
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Wednesday,No,58
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Wednesday,No,14
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Wednesday,No,18
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Wednesday,No,40
+Ruhunu Kumari,Maradana - Matara,28,Cloudy,Wednesday,Yes,23
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Wednesday,No,12
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Wednesday,No,46
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Wednesday,No,1
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Wednesday,No,15
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Wednesday,No,3
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Wednesday,No,14
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Wednesday,No,59
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Wednesday,No,17
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Wednesday,No,31
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Wednesday,No,20
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Wednesday,Yes,23
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Wednesday,No,0
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Wednesday,No,22
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Wednesday,Yes,45
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Wednesday,No,20
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Wednesday,Yes,6
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Wednesday,No,11
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Wednesday,No,25
+Ruhunu Kumari,Maradana - Matara,33,Windy,Wednesday,Yes,18
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Wednesday,No,15
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Wednesday,No,4
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Thursday,No,19
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Thursday,No,24
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Thursday,No,49
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Thursday,No,25
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Thursday,No,4
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Thursday,Yes,16
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Thursday,No,3
+Ruhunu Kumari,Maradana - Matara,34,Rainy,Thursday,No,28
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Thursday,No,10
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Thursday,No,3
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Thursday,No,9
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Thursday,No,52
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Thursday,No,23
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Thursday,No,60
+Ruhunu Kumari,Maradana - Matara,28,Cloudy,Thursday,No,24
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Thursday,Yes,25
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Thursday,No,7
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Thursday,No,21
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Thursday,No,49
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Thursday,No,19
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Thursday,No,11
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Thursday,No,12
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Thursday,No,4
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Thursday,No,58
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Thursday,No,30
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Thursday,No,41
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Thursday,No,25
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Thursday,No,59
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Thursday,No,15
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Thursday,No,29
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Thursday,No,23
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Thursday,No,20
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Thursday,No,5
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Thursday,No,51
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Thursday,No,12
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Thursday,No,20
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Thursday,No,36
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Thursday,No,13
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Thursday,No,5
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Thursday,No,1
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Thursday,No,22
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Thursday,No,41
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Thursday,No,35
+Ruhunu Kumari,Maradana - Matara,29,Windy,Thursday,No,6
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Thursday,No,7
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Thursday,No,14
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Thursday,No,6
+Ruhunu Kumari,Maradana - Matara,34,Rainy,Thursday,No,22
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Thursday,No,21
+Ruhunu Kumari,Maradana - Matara,33,Windy,Thursday,Yes,13
+Ruhunu Kumari,Maradana - Matara,28,Cloudy,Friday,Yes,18
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Friday,No,5
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Friday,No,7
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Friday,No,23
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Friday,No,25
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Friday,No,17
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Friday,No,1
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Friday,Yes,3
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Friday,No,2
+Ruhunu Kumari,Maradana - Matara,34,Rainy,Friday,No,53
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Friday,No,25
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Friday,No,1
+Ruhunu Kumari,Maradana - Matara,28,Cloudy,Friday,No,17
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Friday,No,16
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Friday,No,4
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Friday,Yes,10
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Friday,No,33
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Friday,No,18
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Friday,No,4
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Friday,No,1
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Friday,No,33
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Friday,No,9
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Friday,No,19
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Friday,No,1
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Friday,No,57
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Friday,No,25
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Friday,No,17
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Friday,No,36
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Friday,No,18
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Friday,No,24
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Friday,No,6
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Friday,No,33
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Friday,No,20
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Friday,No,20
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Friday,No,1
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Friday,No,4
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Friday,No,10
+Ruhunu Kumari,Maradana - Matara,29,Windy,Friday,No,0
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Friday,No,1
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Friday,No,5
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Friday,No,14
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Friday,No,4
+Ruhunu Kumari,Maradana - Matara,28,Cloudy,Friday,No,14
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Friday,No,48
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Friday,Yes,21
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Friday,No,55
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Friday,No,16
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Friday,No,3
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Friday,No,18
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Friday,Yes,25
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Saturday,No,20
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Saturday,No,17
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Saturday,No,51
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Saturday,No,22
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Saturday,No,54
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Saturday,Yes,39
+Ruhunu Kumari,Maradana - Matara,28,Rainy,Saturday,No,41
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Saturday,Yes,51
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Saturday,No,32
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Saturday,No,11
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Saturday,No,33
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Saturday,No,35
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Saturday,Yes,33
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Saturday,No,11
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Saturday,No,30
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Saturday,No,56
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Saturday,No,35
+Ruhunu Kumari,Maradana - Matara,30,Windy,Saturday,No,20
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Saturday,Yes,12
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Saturday,No,35
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Saturday,No,19
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Saturday,No,20
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Saturday,No,31
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Saturday,No,37
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Saturday,No,57
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Saturday,Yes,24
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Saturday,No,34
+Ruhunu Kumari,Maradana - Matara,34,Rainy,Saturday,No,56
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Saturday,No,15
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Saturday,No,21
+Ruhunu Kumari,Maradana - Matara,31,Windy,Saturday,No,27
+Ruhunu Kumari,Maradana - Matara,29,Rainy,Saturday,No,26
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Saturday,No,11
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Saturday,No,21
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Saturday,Yes,11
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Saturday,No,36
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Saturday,Yes,33
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Saturday,No,39
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Saturday,No,22
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Saturday,No,14
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Saturday,No,17
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Saturday,No,34
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Saturday,No,16
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Saturday,No,20
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Saturday,No,16
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Saturday,No,35
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Saturday,No,27
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Saturday,No,17
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Saturday,No,34
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Saturday,No,37
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Sunday,No,14
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Sunday,No,51
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Sunday,No,37
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Sunday,No,23
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Sunday,No,10
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Sunday,No,15
+Ruhunu Kumari,Maradana - Matara,31,Rainy,Sunday,No,17
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Sunday,No,20
+Ruhunu Kumari,Maradana - Matara,30,Rainy,Sunday,Yes,57
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Sunday,No,17
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Sunday,No,40
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Sunday,No,38
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Sunday,No,13
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Sunday,No,18
+Ruhunu Kumari,Maradana - Matara,28,Sunny,Sunday,No,21
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Sunday,No,14
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Sunday,Yes,28
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Sunday,No,29
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Sunday,No,29
+Ruhunu Kumari,Maradana - Matara,32,Cloudy,Sunday,No,12
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Sunday,No,34
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Sunday,No,24
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Sunday,No,28
+Ruhunu Kumari,Maradana - Matara,30,Cloudy,Sunday,No,39
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Sunday,No,31
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Sunday,No,25
+Ruhunu Kumari,Maradana - Matara,28,Cloudy,Sunday,No,10
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Sunday,No,26
+Ruhunu Kumari,Maradana - Matara,31,Sunny,Sunday,Yes,20
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Sunday,No,40
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Sunday,No,20
+Ruhunu Kumari,Maradana - Matara,32,Windy,Sunday,No,39
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Sunday,No,22
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Sunday,No,40
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Sunday,No,36
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Sunday,Yes,33
+Ruhunu Kumari,Maradana - Matara,34,Sunny,Sunday,No,14
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Sunday,No,16
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Sunday,No,32
+Ruhunu Kumari,Maradana - Matara,33,Rainy,Sunday,No,25
+Ruhunu Kumari,Maradana - Matara,34,Cloudy,Sunday,Yes,20
+Ruhunu Kumari,Maradana - Matara,29,Cloudy,Sunday,Yes,14
+Ruhunu Kumari,Maradana - Matara,32,Sunny,Sunday,No,28
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Sunday,Yes,36
+Ruhunu Kumari,Maradana - Matara,33,Sunny,Sunday,No,33
+Ruhunu Kumari,Maradana - Matara,31,Cloudy,Sunday,No,37
+Ruhunu Kumari,Maradana - Matara,32,Rainy,Sunday,No,33
+Ruhunu Kumari,Maradana - Matara,30,Sunny,Sunday,No,13
+Ruhunu Kumari,Maradana - Matara,29,Sunny,Sunday,Yes,22
+Ruhunu Kumari,Maradana - Matara,33,Cloudy,Sunday,No,38
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Monday,No,11
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Monday,No,7
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Monday,No,21
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Monday,No,17
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Monday,No,14
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Monday,No,5
+Rajarata Rejini,Vavuniya - Colombo,31,Cloudy,Monday,No,26
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Monday,No,29
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Monday,No,44
+Rajarata Rejini,Vavuniya - Colombo,28,Rainy,Monday,No,62
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Monday,No,1
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Monday,No,15
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Monday,No,1
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Monday,No,18
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Monday,No,44
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Monday,No,7
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Monday,No,22
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Monday,No,26
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Monday,No,27
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Monday,No,21
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Monday,No,4
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Monday,No,23
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Monday,No,27
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Monday,No,28
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Monday,No,26
+Rajarata Rejini,Vavuniya - Colombo,28,Rainy,Monday,No,20
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Monday,No,28
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Monday,No,1
+Rajarata Rejini,Vavuniya - Colombo,33,Rainy,Monday,No,60
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Monday,No,14
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Monday,No,22
+Rajarata Rejini,Vavuniya - Colombo,33,Rainy,Monday,No,45
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Monday,No,10
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Monday,No,30
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Monday,No,15
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Monday,No,21
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Monday,Yes,17
+Rajarata Rejini,Vavuniya - Colombo,31,Rainy,Monday,Yes,53
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Monday,No,24
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Monday,No,32
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Monday,No,23
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Monday,No,22
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Monday,No,8
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Monday,No,15
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Monday,No,35
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Monday,No,4
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Monday,No,19
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Monday,No,19
+Rajarata Rejini,Vavuniya - Colombo,33,Rainy,Monday,No,48
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Monday,No,4
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Tuesday,No,7
+Rajarata Rejini,Vavuniya - Colombo,28,Windy,Tuesday,Yes,16
+Rajarata Rejini,Vavuniya - Colombo,29,Rainy,Tuesday,No,59
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Tuesday,Yes,16
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Tuesday,No,21
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Tuesday,No,12
+Rajarata Rejini,Vavuniya - Colombo,31,Cloudy,Tuesday,No,10
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Tuesday,No,22
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Tuesday,No,4
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Tuesday,No,15
+Rajarata Rejini,Vavuniya - Colombo,33,Rainy,Tuesday,No,63
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Tuesday,No,10
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Tuesday,No,11
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Tuesday,No,17
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Tuesday,No,0
+Rajarata Rejini,Vavuniya - Colombo,29,Windy,Tuesday,No,28
+Rajarata Rejini,Vavuniya - Colombo,33,Rainy,Tuesday,No,59
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Tuesday,No,0
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Tuesday,No,30
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Tuesday,No,13
+Rajarata Rejini,Vavuniya - Colombo,29,Rainy,Tuesday,No,57
+Rajarata Rejini,Vavuniya - Colombo,28,Rainy,Tuesday,No,26
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Tuesday,No,30
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Tuesday,No,3
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Tuesday,No,18
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Tuesday,No,12
+Rajarata Rejini,Vavuniya - Colombo,31,Cloudy,Tuesday,No,29
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Tuesday,No,26
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Tuesday,No,17
+Rajarata Rejini,Vavuniya - Colombo,28,Rainy,Tuesday,No,56
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Tuesday,No,29
+Rajarata Rejini,Vavuniya - Colombo,27,Windy,Tuesday,No,22
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Tuesday,No,21
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Tuesday,Yes,30
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Tuesday,No,2
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Tuesday,No,26
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Tuesday,Yes,9
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Tuesday,No,6
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Tuesday,No,13
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Tuesday,No,14
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Tuesday,No,35
+Rajarata Rejini,Vavuniya - Colombo,31,Windy,Tuesday,Yes,26
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Tuesday,No,24
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Tuesday,No,21
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Tuesday,No,9
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Tuesday,No,20
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Tuesday,No,26
+Rajarata Rejini,Vavuniya - Colombo,31,Cloudy,Tuesday,No,15
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Tuesday,No,11
+Rajarata Rejini,Vavuniya - Colombo,27,Windy,Tuesday,No,1
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Wednesday,No,9
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Wednesday,No,8
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Wednesday,No,22
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Wednesday,No,4
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Wednesday,No,27
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Wednesday,Yes,25
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Wednesday,No,19
+Rajarata Rejini,Vavuniya - Colombo,30,Windy,Wednesday,No,30
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Wednesday,No,0
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Wednesday,No,45
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Wednesday,No,37
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Wednesday,No,15
+Rajarata Rejini,Vavuniya - Colombo,31,Rainy,Wednesday,No,29
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Wednesday,No,63
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Wednesday,No,23
+Rajarata Rejini,Vavuniya - Colombo,29,Rainy,Wednesday,No,22
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Wednesday,No,17
+Rajarata Rejini,Vavuniya - Colombo,29,Windy,Wednesday,Yes,19
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Wednesday,No,30
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Wednesday,No,57
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Wednesday,No,12
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Wednesday,Yes,6
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Wednesday,No,26
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Wednesday,No,36
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Wednesday,No,10
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Wednesday,No,8
+Rajarata Rejini,Vavuniya - Colombo,31,Rainy,Wednesday,No,59
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Wednesday,No,64
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Wednesday,No,22
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Wednesday,No,21
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Wednesday,No,25
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Wednesday,Yes,17
+Rajarata Rejini,Vavuniya - Colombo,31,Windy,Wednesday,No,24
+Rajarata Rejini,Vavuniya - Colombo,28,Rainy,Wednesday,No,35
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Wednesday,No,1
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Wednesday,No,13
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Wednesday,No,30
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Wednesday,No,3
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Wednesday,No,10
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Wednesday,No,15
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Wednesday,Yes,0
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Wednesday,No,30
+Rajarata Rejini,Vavuniya - Colombo,29,Rainy,Wednesday,No,52
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Wednesday,No,16
+Rajarata Rejini,Vavuniya - Colombo,30,Windy,Wednesday,No,26
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Wednesday,No,9
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Wednesday,No,9
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Wednesday,No,10
+Rajarata Rejini,Vavuniya - Colombo,31,Cloudy,Wednesday,No,19
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Wednesday,No,25
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Thursday,No,3
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Thursday,No,27
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Thursday,No,44
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Thursday,No,1
+Rajarata Rejini,Vavuniya - Colombo,33,Rainy,Thursday,No,54
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Thursday,No,30
+Rajarata Rejini,Vavuniya - Colombo,32,Windy,Thursday,No,11
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Thursday,No,43
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Thursday,No,56
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Thursday,No,2
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Thursday,Yes,4
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Thursday,No,53
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Thursday,No,30
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Thursday,No,17
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Thursday,Yes,20
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Thursday,No,15
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Thursday,No,10
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Thursday,No,11
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Thursday,Yes,44
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Thursday,No,26
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Thursday,Yes,13
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Thursday,No,21
+Rajarata Rejini,Vavuniya - Colombo,33,Windy,Thursday,No,19
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Thursday,No,1
+Rajarata Rejini,Vavuniya - Colombo,33,Windy,Thursday,Yes,10
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Thursday,No,13
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Thursday,No,3
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Thursday,No,11
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Thursday,No,56
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Thursday,No,21
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Thursday,No,3
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Thursday,No,37
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Thursday,No,40
+Rajarata Rejini,Vavuniya - Colombo,31,Cloudy,Thursday,Yes,7
+Rajarata Rejini,Vavuniya - Colombo,30,Windy,Thursday,No,11
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Thursday,No,17
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Thursday,No,27
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Thursday,Yes,62
+Rajarata Rejini,Vavuniya - Colombo,33,Rainy,Thursday,No,46
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Thursday,No,15
+Rajarata Rejini,Vavuniya - Colombo,29,Rainy,Thursday,No,43
+Rajarata Rejini,Vavuniya - Colombo,28,Rainy,Thursday,No,23
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Thursday,No,12
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Thursday,No,13
+Rajarata Rejini,Vavuniya - Colombo,33,Windy,Thursday,No,6
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Thursday,No,9
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Thursday,No,11
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Thursday,No,1
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Thursday,No,28
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Thursday,No,14
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Friday,Yes,22
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Friday,Yes,2
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Friday,No,13
+Rajarata Rejini,Vavuniya - Colombo,33,Rainy,Friday,No,54
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Friday,No,6
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Friday,No,31
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Friday,Yes,26
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Friday,No,3
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Friday,No,17
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Friday,No,15
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Friday,Yes,15
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Friday,No,14
+Rajarata Rejini,Vavuniya - Colombo,29,Windy,Friday,No,16
+Rajarata Rejini,Vavuniya - Colombo,31,Cloudy,Friday,Yes,18
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Friday,Yes,21
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Friday,No,18
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Friday,No,8
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Friday,No,25
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Friday,No,18
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Friday,No,19
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Friday,Yes,4
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Friday,No,14
+Rajarata Rejini,Vavuniya - Colombo,29,Rainy,Friday,Yes,20
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Friday,Yes,14
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Friday,No,20
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Friday,No,13
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Friday,No,23
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Friday,No,30
+Rajarata Rejini,Vavuniya - Colombo,29,Rainy,Friday,No,54
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Friday,No,14
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Friday,No,19
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Friday,No,28
+Rajarata Rejini,Vavuniya - Colombo,28,Windy,Friday,No,5
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Friday,No,18
+Rajarata Rejini,Vavuniya - Colombo,28,Rainy,Friday,No,36
+Rajarata Rejini,Vavuniya - Colombo,31,Rainy,Friday,No,49
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Friday,No,16
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Friday,No,10
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Friday,No,29
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Friday,No,8
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Friday,No,30
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Friday,No,48
+Rajarata Rejini,Vavuniya - Colombo,32,Windy,Friday,No,13
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Friday,No,0
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Friday,No,17
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Friday,No,54
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Friday,Yes,43
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Friday,No,14
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Friday,No,24
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Friday,No,28
+Rajarata Rejini,Vavuniya - Colombo,31,Cloudy,Saturday,No,30
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Saturday,No,63
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Saturday,No,45
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Saturday,No,16
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Saturday,No,44
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Saturday,No,37
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Saturday,No,38
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Saturday,No,32
+Rajarata Rejini,Vavuniya - Colombo,31,Rainy,Saturday,No,42
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Saturday,Yes,29
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Saturday,No,28
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Saturday,No,38
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Saturday,Yes,26
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Saturday,No,14
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Saturday,No,18
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Saturday,No,22
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Saturday,No,15
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Saturday,No,26
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Saturday,No,19
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Saturday,No,40
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Saturday,No,35
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Saturday,No,41
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Saturday,No,24
+Rajarata Rejini,Vavuniya - Colombo,31,Rainy,Saturday,No,44
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Saturday,No,41
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Saturday,No,15
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Saturday,No,31
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Saturday,No,10
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Saturday,No,30
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Saturday,No,44
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Saturday,No,20
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Saturday,No,15
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Saturday,No,44
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Saturday,No,17
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Saturday,No,25
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Saturday,No,28
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Saturday,No,18
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Saturday,No,51
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Saturday,No,62
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Saturday,No,30
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Saturday,No,32
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Saturday,No,17
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Saturday,No,19
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Saturday,No,41
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Saturday,No,41
+Rajarata Rejini,Vavuniya - Colombo,27,Sunny,Saturday,No,34
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Saturday,Yes,42
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Saturday,Yes,50
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Saturday,No,31
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Saturday,No,28
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Sunday,No,13
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Sunday,No,17
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Sunday,Yes,21
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Sunday,No,33
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Sunday,Yes,32
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Sunday,No,43
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Sunday,No,43
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Sunday,Yes,14
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Sunday,No,58
+Rajarata Rejini,Vavuniya - Colombo,31,Rainy,Sunday,No,49
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Sunday,No,45
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Sunday,Yes,10
+Rajarata Rejini,Vavuniya - Colombo,31,Cloudy,Sunday,No,13
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Sunday,No,22
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Sunday,No,20
+Rajarata Rejini,Vavuniya - Colombo,29,Cloudy,Sunday,No,11
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Sunday,No,30
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Sunday,No,13
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Sunday,No,35
+Rajarata Rejini,Vavuniya - Colombo,28,Rainy,Sunday,No,24
+Rajarata Rejini,Vavuniya - Colombo,31,Rainy,Sunday,No,20
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Sunday,Yes,17
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Sunday,No,28
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Sunday,No,21
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Sunday,No,21
+Rajarata Rejini,Vavuniya - Colombo,33,Rainy,Sunday,No,45
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Sunday,No,28
+Rajarata Rejini,Vavuniya - Colombo,33,Windy,Sunday,Yes,25
+Rajarata Rejini,Vavuniya - Colombo,32,Cloudy,Sunday,No,26
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Sunday,No,22
+Rajarata Rejini,Vavuniya - Colombo,27,Rainy,Sunday,No,27
+Rajarata Rejini,Vavuniya - Colombo,30,Cloudy,Sunday,No,28
+Rajarata Rejini,Vavuniya - Colombo,33,Cloudy,Sunday,No,43
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Sunday,No,22
+Rajarata Rejini,Vavuniya - Colombo,32,Rainy,Sunday,No,20
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Sunday,No,13
+Rajarata Rejini,Vavuniya - Colombo,29,Sunny,Sunday,No,39
+Rajarata Rejini,Vavuniya - Colombo,32,Windy,Sunday,No,32
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Sunday,No,41
+Rajarata Rejini,Vavuniya - Colombo,28,Sunny,Sunday,No,11
+Rajarata Rejini,Vavuniya - Colombo,30,Rainy,Sunday,No,21
+Rajarata Rejini,Vavuniya - Colombo,31,Rainy,Sunday,No,43
+Rajarata Rejini,Vavuniya - Colombo,28,Cloudy,Sunday,No,12
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Sunday,No,28
+Rajarata Rejini,Vavuniya - Colombo,32,Sunny,Sunday,No,11
+Rajarata Rejini,Vavuniya - Colombo,30,Sunny,Sunday,No,13
+Rajarata Rejini,Vavuniya - Colombo,31,Sunny,Sunday,No,28
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Sunday,No,29
+Rajarata Rejini,Vavuniya - Colombo,33,Sunny,Sunday,No,24
+Rajarata Rejini,Vavuniya - Colombo,27,Cloudy,Sunday,No,29
+Samudra Devi,Maradana - Galle,34,Cloudy,Monday,No,14
+Samudra Devi,Maradana - Galle,28,Rainy,Monday,No,20
+Samudra Devi,Maradana - Galle,29,Sunny,Monday,No,0
+Samudra Devi,Maradana - Galle,30,Sunny,Monday,No,7
+Samudra Devi,Maradana - Galle,32,Sunny,Monday,No,0
+Samudra Devi,Maradana - Galle,31,Rainy,Monday,No,31
+Samudra Devi,Maradana - Galle,32,Rainy,Monday,No,26
+Samudra Devi,Maradana - Galle,31,Cloudy,Monday,No,15
+Samudra Devi,Maradana - Galle,31,Rainy,Monday,No,40
+Samudra Devi,Maradana - Galle,32,Sunny,Monday,No,15
+Samudra Devi,Maradana - Galle,30,Rainy,Monday,No,39
+Samudra Devi,Maradana - Galle,28,Rainy,Monday,No,33
+Samudra Devi,Maradana - Galle,29,Sunny,Monday,No,11
+Samudra Devi,Maradana - Galle,33,Sunny,Monday,No,5
+Samudra Devi,Maradana - Galle,29,Sunny,Monday,No,15
+Samudra Devi,Maradana - Galle,33,Sunny,Monday,Yes,10
+Samudra Devi,Maradana - Galle,33,Cloudy,Monday,Yes,3
+Samudra Devi,Maradana - Galle,33,Sunny,Monday,No,1
+Samudra Devi,Maradana - Galle,33,Sunny,Monday,No,4
+Samudra Devi,Maradana - Galle,30,Cloudy,Monday,Yes,1
+Samudra Devi,Maradana - Galle,31,Cloudy,Monday,No,2
+Samudra Devi,Maradana - Galle,31,Sunny,Monday,No,2
+Samudra Devi,Maradana - Galle,29,Sunny,Monday,Yes,10
+Samudra Devi,Maradana - Galle,34,Cloudy,Monday,No,4
+Samudra Devi,Maradana - Galle,31,Sunny,Monday,No,10
+Samudra Devi,Maradana - Galle,29,Rainy,Monday,No,11
+Samudra Devi,Maradana - Galle,33,Rainy,Monday,No,32
+Samudra Devi,Maradana - Galle,28,Sunny,Monday,No,15
+Samudra Devi,Maradana - Galle,31,Windy,Monday,No,8
+Samudra Devi,Maradana - Galle,31,Windy,Monday,No,13
+Samudra Devi,Maradana - Galle,29,Cloudy,Monday,No,11
+Samudra Devi,Maradana - Galle,30,Rainy,Monday,No,40
+Samudra Devi,Maradana - Galle,32,Rainy,Monday,No,17
+Samudra Devi,Maradana - Galle,34,Cloudy,Monday,No,6
+Samudra Devi,Maradana - Galle,28,Sunny,Monday,No,10
+Samudra Devi,Maradana - Galle,32,Sunny,Monday,No,9
+Samudra Devi,Maradana - Galle,28,Cloudy,Monday,No,9
+Samudra Devi,Maradana - Galle,33,Sunny,Monday,No,4
+Samudra Devi,Maradana - Galle,29,Rainy,Monday,No,28
+Samudra Devi,Maradana - Galle,29,Windy,Monday,No,11
+Samudra Devi,Maradana - Galle,32,Rainy,Monday,No,10
+Samudra Devi,Maradana - Galle,31,Sunny,Monday,No,5
+Samudra Devi,Maradana - Galle,34,Cloudy,Monday,Yes,11
+Samudra Devi,Maradana - Galle,32,Sunny,Monday,No,4
+Samudra Devi,Maradana - Galle,34,Cloudy,Monday,No,15
+Samudra Devi,Maradana - Galle,34,Sunny,Monday,No,13
+Samudra Devi,Maradana - Galle,33,Cloudy,Monday,No,9
+Samudra Devi,Maradana - Galle,28,Rainy,Monday,No,35
+Samudra Devi,Maradana - Galle,32,Sunny,Monday,No,0
+Samudra Devi,Maradana - Galle,31,Cloudy,Monday,No,10
+Samudra Devi,Maradana - Galle,30,Cloudy,Tuesday,No,14
+Samudra Devi,Maradana - Galle,28,Cloudy,Tuesday,No,9
+Samudra Devi,Maradana - Galle,28,Cloudy,Tuesday,No,15
+Samudra Devi,Maradana - Galle,32,Cloudy,Tuesday,No,0
+Samudra Devi,Maradana - Galle,32,Windy,Tuesday,No,13
+Samudra Devi,Maradana - Galle,33,Sunny,Tuesday,No,14
+Samudra Devi,Maradana - Galle,30,Windy,Tuesday,No,1
+Samudra Devi,Maradana - Galle,32,Rainy,Tuesday,No,11
+Samudra Devi,Maradana - Galle,29,Sunny,Tuesday,No,1
+Samudra Devi,Maradana - Galle,34,Sunny,Tuesday,No,1
+Samudra Devi,Maradana - Galle,31,Cloudy,Tuesday,No,12
+Samudra Devi,Maradana - Galle,30,Sunny,Tuesday,No,13
+Samudra Devi,Maradana - Galle,34,Rainy,Tuesday,No,20
+Samudra Devi,Maradana - Galle,34,Sunny,Tuesday,No,3
+Samudra Devi,Maradana - Galle,29,Sunny,Tuesday,No,14
+Samudra Devi,Maradana - Galle,33,Sunny,Tuesday,No,9
+Samudra Devi,Maradana - Galle,28,Sunny,Tuesday,Yes,6
+Samudra Devi,Maradana - Galle,31,Cloudy,Tuesday,No,15
+Samudra Devi,Maradana - Galle,28,Sunny,Tuesday,Yes,15
+Samudra Devi,Maradana - Galle,34,Sunny,Tuesday,No,2
+Samudra Devi,Maradana - Galle,32,Rainy,Tuesday,No,17
+Samudra Devi,Maradana - Galle,32,Rainy,Tuesday,No,39
+Samudra Devi,Maradana - Galle,29,Cloudy,Tuesday,No,1
+Samudra Devi,Maradana - Galle,29,Sunny,Tuesday,No,14
+Samudra Devi,Maradana - Galle,34,Rainy,Tuesday,No,38
+Samudra Devi,Maradana - Galle,33,Cloudy,Tuesday,No,2
+Samudra Devi,Maradana - Galle,31,Sunny,Tuesday,No,4
+Samudra Devi,Maradana - Galle,34,Sunny,Tuesday,No,3
+Samudra Devi,Maradana - Galle,31,Sunny,Tuesday,Yes,10
+Samudra Devi,Maradana - Galle,31,Sunny,Tuesday,No,13
+Samudra Devi,Maradana - Galle,31,Sunny,Tuesday,Yes,2
+Samudra Devi,Maradana - Galle,28,Cloudy,Tuesday,No,3
+Samudra Devi,Maradana - Galle,32,Cloudy,Tuesday,No,15
+Samudra Devi,Maradana - Galle,32,Cloudy,Tuesday,No,8
+Samudra Devi,Maradana - Galle,29,Sunny,Tuesday,No,11
+Samudra Devi,Maradana - Galle,33,Rainy,Tuesday,No,20
+Samudra Devi,Maradana - Galle,30,Cloudy,Tuesday,No,11
+Samudra Devi,Maradana - Galle,32,Sunny,Tuesday,No,4
+Samudra Devi,Maradana - Galle,29,Rainy,Tuesday,No,32
+Samudra Devi,Maradana - Galle,31,Sunny,Tuesday,No,5
+Samudra Devi,Maradana - Galle,28,Rainy,Tuesday,No,18
+Samudra Devi,Maradana - Galle,34,Sunny,Tuesday,No,3
+Samudra Devi,Maradana - Galle,34,Cloudy,Tuesday,No,3
+Samudra Devi,Maradana - Galle,30,Sunny,Tuesday,No,3
+Samudra Devi,Maradana - Galle,28,Cloudy,Tuesday,No,14
+Samudra Devi,Maradana - Galle,28,Sunny,Tuesday,No,12
+Samudra Devi,Maradana - Galle,33,Rainy,Tuesday,No,40
+Samudra Devi,Maradana - Galle,34,Cloudy,Tuesday,No,10
+Samudra Devi,Maradana - Galle,30,Cloudy,Tuesday,No,3
+Samudra Devi,Maradana - Galle,31,Cloudy,Tuesday,No,5
+Samudra Devi,Maradana - Galle,31,Sunny,Wednesday,No,12
+Samudra Devi,Maradana - Galle,31,Cloudy,Wednesday,No,5
+Samudra Devi,Maradana - Galle,33,Cloudy,Wednesday,No,2
+Samudra Devi,Maradana - Galle,34,Sunny,Wednesday,Yes,9
+Samudra Devi,Maradana - Galle,33,Sunny,Wednesday,No,6
+Samudra Devi,Maradana - Galle,31,Cloudy,Wednesday,Yes,4
+Samudra Devi,Maradana - Galle,34,Sunny,Wednesday,No,5
+Samudra Devi,Maradana - Galle,33,Cloudy,Wednesday,Yes,6
+Samudra Devi,Maradana - Galle,29,Cloudy,Wednesday,No,5
+Samudra Devi,Maradana - Galle,28,Sunny,Wednesday,No,12
+Samudra Devi,Maradana - Galle,34,Rainy,Wednesday,No,20
+Samudra Devi,Maradana - Galle,31,Cloudy,Wednesday,No,1
+Samudra Devi,Maradana - Galle,32,Rainy,Wednesday,No,25
+Samudra Devi,Maradana - Galle,32,Sunny,Wednesday,No,11
+Samudra Devi,Maradana - Galle,29,Rainy,Wednesday,No,36
+Samudra Devi,Maradana - Galle,32,Sunny,Wednesday,No,4
+Samudra Devi,Maradana - Galle,32,Sunny,Wednesday,Yes,9
+Samudra Devi,Maradana - Galle,30,Sunny,Wednesday,No,12
+Samudra Devi,Maradana - Galle,32,Cloudy,Wednesday,Yes,1
+Samudra Devi,Maradana - Galle,32,Cloudy,Wednesday,No,5
+Samudra Devi,Maradana - Galle,32,Cloudy,Wednesday,Yes,15
+Samudra Devi,Maradana - Galle,33,Sunny,Wednesday,No,1
+Samudra Devi,Maradana - Galle,30,Sunny,Wednesday,No,1
+Samudra Devi,Maradana - Galle,28,Sunny,Wednesday,No,3
+Samudra Devi,Maradana - Galle,28,Sunny,Wednesday,No,9
+Samudra Devi,Maradana - Galle,34,Sunny,Wednesday,No,13
+Samudra Devi,Maradana - Galle,31,Cloudy,Wednesday,No,4
+Samudra Devi,Maradana - Galle,32,Cloudy,Wednesday,No,11
+Samudra Devi,Maradana - Galle,32,Cloudy,Wednesday,No,1
+Samudra Devi,Maradana - Galle,32,Rainy,Wednesday,No,10
+Samudra Devi,Maradana - Galle,32,Cloudy,Wednesday,No,10
+Samudra Devi,Maradana - Galle,28,Sunny,Wednesday,No,6
+Samudra Devi,Maradana - Galle,34,Cloudy,Wednesday,No,13
+Samudra Devi,Maradana - Galle,33,Sunny,Wednesday,No,5
+Samudra Devi,Maradana - Galle,30,Cloudy,Wednesday,No,3
+Samudra Devi,Maradana - Galle,32,Windy,Wednesday,No,13
+Samudra Devi,Maradana - Galle,29,Cloudy,Wednesday,No,14
+Samudra Devi,Maradana - Galle,32,Rainy,Wednesday,No,11
+Samudra Devi,Maradana - Galle,33,Sunny,Wednesday,No,1
+Samudra Devi,Maradana - Galle,33,Rainy,Wednesday,No,20
+Samudra Devi,Maradana - Galle,30,Sunny,Wednesday,No,12
+Samudra Devi,Maradana - Galle,29,Sunny,Wednesday,Yes,15
+Samudra Devi,Maradana - Galle,28,Rainy,Wednesday,No,15
+Samudra Devi,Maradana - Galle,30,Rainy,Wednesday,No,11
+Samudra Devi,Maradana - Galle,28,Sunny,Wednesday,No,3
+Samudra Devi,Maradana - Galle,29,Cloudy,Wednesday,No,11
+Samudra Devi,Maradana - Galle,33,Cloudy,Wednesday,No,9
+Samudra Devi,Maradana - Galle,30,Sunny,Wednesday,No,15
+Samudra Devi,Maradana - Galle,31,Cloudy,Wednesday,No,2
+Samudra Devi,Maradana - Galle,32,Sunny,Wednesday,No,2
+Samudra Devi,Maradana - Galle,32,Cloudy,Thursday,No,4
+Samudra Devi,Maradana - Galle,29,Rainy,Thursday,No,32
+Samudra Devi,Maradana - Galle,28,Cloudy,Thursday,No,6
+Samudra Devi,Maradana - Galle,34,Cloudy,Thursday,No,0
+Samudra Devi,Maradana - Galle,28,Rainy,Thursday,Yes,20
+Samudra Devi,Maradana - Galle,32,Sunny,Thursday,No,9
+Samudra Devi,Maradana - Galle,34,Cloudy,Thursday,No,4
+Samudra Devi,Maradana - Galle,32,Sunny,Thursday,No,6
+Samudra Devi,Maradana - Galle,33,Windy,Thursday,No,14
+Samudra Devi,Maradana - Galle,29,Sunny,Thursday,No,10
+Samudra Devi,Maradana - Galle,28,Rainy,Thursday,No,22
+Samudra Devi,Maradana - Galle,33,Cloudy,Thursday,No,15
+Samudra Devi,Maradana - Galle,33,Sunny,Thursday,No,11
+Samudra Devi,Maradana - Galle,28,Sunny,Thursday,No,13
+Samudra Devi,Maradana - Galle,33,Rainy,Thursday,No,19
+Samudra Devi,Maradana - Galle,33,Sunny,Thursday,No,2
+Samudra Devi,Maradana - Galle,33,Sunny,Thursday,No,0
+Samudra Devi,Maradana - Galle,31,Windy,Thursday,No,12
+Samudra Devi,Maradana - Galle,33,Windy,Thursday,No,10
+Samudra Devi,Maradana - Galle,29,Rainy,Thursday,No,29
+Samudra Devi,Maradana - Galle,30,Sunny,Thursday,No,13
+Samudra Devi,Maradana - Galle,34,Sunny,Thursday,No,1
+Samudra Devi,Maradana - Galle,28,Sunny,Thursday,No,3
+Samudra Devi,Maradana - Galle,29,Cloudy,Thursday,Yes,12
+Samudra Devi,Maradana - Galle,31,Sunny,Thursday,Yes,15
+Samudra Devi,Maradana - Galle,33,Sunny,Thursday,No,10
+Samudra Devi,Maradana - Galle,29,Sunny,Thursday,No,7
+Samudra Devi,Maradana - Galle,30,Sunny,Thursday,No,7
+Samudra Devi,Maradana - Galle,32,Sunny,Thursday,No,15
+Samudra Devi,Maradana - Galle,33,Sunny,Thursday,No,11
+Samudra Devi,Maradana - Galle,29,Sunny,Thursday,No,9
+Samudra Devi,Maradana - Galle,34,Sunny,Thursday,No,15
+Samudra Devi,Maradana - Galle,30,Rainy,Thursday,No,10
+Samudra Devi,Maradana - Galle,34,Rainy,Thursday,No,34
+Samudra Devi,Maradana - Galle,29,Cloudy,Thursday,No,8
+Samudra Devi,Maradana - Galle,29,Windy,Thursday,No,10
+Samudra Devi,Maradana - Galle,28,Sunny,Thursday,No,0
+Samudra Devi,Maradana - Galle,34,Sunny,Thursday,No,14
+Samudra Devi,Maradana - Galle,34,Cloudy,Thursday,No,13
+Samudra Devi,Maradana - Galle,32,Rainy,Thursday,No,26
+Samudra Devi,Maradana - Galle,31,Rainy,Thursday,No,19
+Samudra Devi,Maradana - Galle,30,Sunny,Thursday,No,15
+Samudra Devi,Maradana - Galle,28,Sunny,Thursday,No,1
+Samudra Devi,Maradana - Galle,34,Rainy,Thursday,No,39
+Samudra Devi,Maradana - Galle,30,Sunny,Thursday,No,4
+Samudra Devi,Maradana - Galle,29,Sunny,Thursday,Yes,15
+Samudra Devi,Maradana - Galle,33,Sunny,Thursday,No,8
+Samudra Devi,Maradana - Galle,28,Cloudy,Thursday,No,5
+Samudra Devi,Maradana - Galle,31,Cloudy,Thursday,No,9
+Samudra Devi,Maradana - Galle,33,Sunny,Thursday,Yes,14
+Samudra Devi,Maradana - Galle,30,Cloudy,Friday,No,15
+Samudra Devi,Maradana - Galle,30,Rainy,Friday,No,24
+Samudra Devi,Maradana - Galle,34,Windy,Friday,No,6
+Samudra Devi,Maradana - Galle,28,Sunny,Friday,No,6
+Samudra Devi,Maradana - Galle,28,Rainy,Friday,Yes,11
+Samudra Devi,Maradana - Galle,28,Cloudy,Friday,Yes,6
+Samudra Devi,Maradana - Galle,28,Cloudy,Friday,No,15
+Samudra Devi,Maradana - Galle,31,Sunny,Friday,No,10
+Samudra Devi,Maradana - Galle,34,Sunny,Friday,No,5
+Samudra Devi,Maradana - Galle,28,Sunny,Friday,No,10
+Samudra Devi,Maradana - Galle,29,Sunny,Friday,No,6
+Samudra Devi,Maradana - Galle,31,Cloudy,Friday,No,8
+Samudra Devi,Maradana - Galle,32,Sunny,Friday,No,3
+Samudra Devi,Maradana - Galle,31,Sunny,Friday,No,1
+Samudra Devi,Maradana - Galle,34,Cloudy,Friday,Yes,6
+Samudra Devi,Maradana - Galle,32,Sunny,Friday,No,2
+Samudra Devi,Maradana - Galle,34,Cloudy,Friday,No,15
+Samudra Devi,Maradana - Galle,29,Sunny,Friday,No,14
+Samudra Devi,Maradana - Galle,28,Sunny,Friday,No,15
+Samudra Devi,Maradana - Galle,30,Sunny,Friday,No,8
+Samudra Devi,Maradana - Galle,34,Sunny,Friday,No,12
+Samudra Devi,Maradana - Galle,29,Cloudy,Friday,No,1
+Samudra Devi,Maradana - Galle,28,Cloudy,Friday,No,8
+Samudra Devi,Maradana - Galle,33,Sunny,Friday,No,8
+Samudra Devi,Maradana - Galle,28,Cloudy,Friday,No,7
+Samudra Devi,Maradana - Galle,29,Windy,Friday,No,13
+Samudra Devi,Maradana - Galle,34,Cloudy,Friday,No,5
+Samudra Devi,Maradana - Galle,31,Rainy,Friday,No,22
+Samudra Devi,Maradana - Galle,33,Sunny,Friday,No,1
+Samudra Devi,Maradana - Galle,31,Sunny,Friday,No,3
+Samudra Devi,Maradana - Galle,32,Sunny,Friday,No,15
+Samudra Devi,Maradana - Galle,30,Cloudy,Friday,No,1
+Samudra Devi,Maradana - Galle,28,Sunny,Friday,No,14
+Samudra Devi,Maradana - Galle,33,Sunny,Friday,No,0
+Samudra Devi,Maradana - Galle,32,Sunny,Friday,No,4
+Samudra Devi,Maradana - Galle,30,Sunny,Friday,No,15
+Samudra Devi,Maradana - Galle,33,Cloudy,Friday,No,14
+Samudra Devi,Maradana - Galle,31,Cloudy,Friday,No,1
+Samudra Devi,Maradana - Galle,28,Cloudy,Friday,No,0
+Samudra Devi,Maradana - Galle,31,Sunny,Friday,No,15
+Samudra Devi,Maradana - Galle,33,Rainy,Friday,No,35
+Samudra Devi,Maradana - Galle,33,Cloudy,Friday,No,14
+Samudra Devi,Maradana - Galle,29,Rainy,Friday,No,23
+Samudra Devi,Maradana - Galle,32,Cloudy,Friday,No,9
+Samudra Devi,Maradana - Galle,28,Cloudy,Friday,No,2
+Samudra Devi,Maradana - Galle,32,Sunny,Friday,No,3
+Samudra Devi,Maradana - Galle,28,Cloudy,Friday,No,8
+Samudra Devi,Maradana - Galle,33,Rainy,Friday,No,38
+Samudra Devi,Maradana - Galle,34,Cloudy,Friday,No,0
+Samudra Devi,Maradana - Galle,34,Cloudy,Friday,No,8
+Samudra Devi,Maradana - Galle,30,Sunny,Saturday,No,5
+Samudra Devi,Maradana - Galle,28,Rainy,Saturday,No,17
+Samudra Devi,Maradana - Galle,33,Windy,Saturday,No,19
+Samudra Devi,Maradana - Galle,34,Cloudy,Saturday,No,23
+Samudra Devi,Maradana - Galle,29,Cloudy,Saturday,No,10
+Samudra Devi,Maradana - Galle,29,Cloudy,Saturday,No,24
+Samudra Devi,Maradana - Galle,29,Cloudy,Saturday,No,10
+Samudra Devi,Maradana - Galle,28,Cloudy,Saturday,No,7
+Samudra Devi,Maradana - Galle,31,Rainy,Saturday,No,39
+Samudra Devi,Maradana - Galle,30,Sunny,Saturday,No,12
+Samudra Devi,Maradana - Galle,31,Sunny,Saturday,No,8
+Samudra Devi,Maradana - Galle,33,Sunny,Saturday,No,24
+Samudra Devi,Maradana - Galle,30,Rainy,Saturday,No,27
+Samudra Devi,Maradana - Galle,29,Rainy,Saturday,No,19
+Samudra Devi,Maradana - Galle,31,Sunny,Saturday,Yes,17
+Samudra Devi,Maradana - Galle,29,Windy,Saturday,No,24
+Samudra Devi,Maradana - Galle,29,Rainy,Saturday,No,39
+Samudra Devi,Maradana - Galle,29,Sunny,Saturday,No,22
+Samudra Devi,Maradana - Galle,28,Rainy,Saturday,No,32
+Samudra Devi,Maradana - Galle,30,Cloudy,Saturday,No,9
+Samudra Devi,Maradana - Galle,34,Sunny,Saturday,No,25
+Samudra Devi,Maradana - Galle,32,Sunny,Saturday,No,13
+Samudra Devi,Maradana - Galle,29,Rainy,Saturday,Yes,12
+Samudra Devi,Maradana - Galle,34,Rainy,Saturday,No,20
+Samudra Devi,Maradana - Galle,31,Sunny,Saturday,No,14
+Samudra Devi,Maradana - Galle,33,Rainy,Saturday,No,23
+Samudra Devi,Maradana - Galle,29,Sunny,Saturday,No,7
+Samudra Devi,Maradana - Galle,34,Cloudy,Saturday,No,12
+Samudra Devi,Maradana - Galle,29,Cloudy,Saturday,No,17
+Samudra Devi,Maradana - Galle,31,Rainy,Saturday,No,18
+Samudra Devi,Maradana - Galle,33,Windy,Saturday,No,12
+Samudra Devi,Maradana - Galle,28,Sunny,Saturday,Yes,8
+Samudra Devi,Maradana - Galle,30,Sunny,Saturday,No,5
+Samudra Devi,Maradana - Galle,29,Cloudy,Saturday,No,14
+Samudra Devi,Maradana - Galle,33,Sunny,Saturday,No,8
+Samudra Devi,Maradana - Galle,32,Sunny,Saturday,No,19
+Samudra Devi,Maradana - Galle,32,Cloudy,Saturday,No,24
+Samudra Devi,Maradana - Galle,33,Sunny,Saturday,No,18
+Samudra Devi,Maradana - Galle,33,Rainy,Saturday,No,22
+Samudra Devi,Maradana - Galle,31,Cloudy,Saturday,No,20
+Samudra Devi,Maradana - Galle,29,Cloudy,Saturday,No,22
+Samudra Devi,Maradana - Galle,33,Rainy,Saturday,No,30
+Samudra Devi,Maradana - Galle,31,Windy,Saturday,No,16
+Samudra Devi,Maradana - Galle,34,Rainy,Saturday,No,14
+Samudra Devi,Maradana - Galle,34,Rainy,Saturday,No,19
+Samudra Devi,Maradana - Galle,28,Sunny,Saturday,No,15
+Samudra Devi,Maradana - Galle,29,Sunny,Saturday,No,24
+Samudra Devi,Maradana - Galle,33,Cloudy,Saturday,No,5
+Samudra Devi,Maradana - Galle,32,Cloudy,Saturday,No,25
+Samudra Devi,Maradana - Galle,33,Rainy,Saturday,No,12
+Samudra Devi,Maradana - Galle,34,Sunny,Sunday,No,23
+Samudra Devi,Maradana - Galle,32,Sunny,Sunday,No,16
+Samudra Devi,Maradana - Galle,29,Cloudy,Sunday,No,12
+Samudra Devi,Maradana - Galle,31,Cloudy,Sunday,No,12
+Samudra Devi,Maradana - Galle,30,Cloudy,Sunday,Yes,6
+Samudra Devi,Maradana - Galle,34,Cloudy,Sunday,No,22
+Samudra Devi,Maradana - Galle,33,Sunny,Sunday,No,18
+Samudra Devi,Maradana - Galle,30,Cloudy,Sunday,No,16
+Samudra Devi,Maradana - Galle,30,Cloudy,Sunday,No,15
+Samudra Devi,Maradana - Galle,31,Cloudy,Sunday,No,12
+Samudra Devi,Maradana - Galle,30,Sunny,Sunday,No,22
+Samudra Devi,Maradana - Galle,31,Cloudy,Sunday,No,15
+Samudra Devi,Maradana - Galle,33,Rainy,Sunday,No,32
+Samudra Devi,Maradana - Galle,28,Cloudy,Sunday,Yes,19
+Samudra Devi,Maradana - Galle,30,Sunny,Sunday,No,12
+Samudra Devi,Maradana - Galle,29,Sunny,Sunday,No,14
+Samudra Devi,Maradana - Galle,32,Sunny,Sunday,No,12
+Samudra Devi,Maradana - Galle,28,Sunny,Sunday,No,7
+Samudra Devi,Maradana - Galle,34,Sunny,Sunday,No,7
+Samudra Devi,Maradana - Galle,34,Rainy,Sunday,No,36
+Samudra Devi,Maradana - Galle,34,Sunny,Sunday,No,13
+Samudra Devi,Maradana - Galle,28,Sunny,Sunday,No,6
+Samudra Devi,Maradana - Galle,30,Sunny,Sunday,No,24
+Samudra Devi,Maradana - Galle,30,Windy,Sunday,Yes,11
+Samudra Devi,Maradana - Galle,34,Windy,Sunday,No,5
+Samudra Devi,Maradana - Galle,30,Rainy,Sunday,No,38
+Samudra Devi,Maradana - Galle,28,Cloudy,Sunday,No,15
+Samudra Devi,Maradana - Galle,32,Windy,Sunday,No,15
+Samudra Devi,Maradana - Galle,30,Cloudy,Sunday,No,14
+Samudra Devi,Maradana - Galle,28,Sunny,Sunday,No,7
+Samudra Devi,Maradana - Galle,33,Cloudy,Sunday,No,23
+Samudra Devi,Maradana - Galle,30,Cloudy,Sunday,No,21
+Samudra Devi,Maradana - Galle,33,Cloudy,Sunday,No,20
+Samudra Devi,Maradana - Galle,28,Cloudy,Sunday,No,23
+Samudra Devi,Maradana - Galle,29,Cloudy,Sunday,No,5
+Samudra Devi,Maradana - Galle,30,Sunny,Sunday,No,7
+Samudra Devi,Maradana - Galle,29,Sunny,Sunday,No,15
+Samudra Devi,Maradana - Galle,34,Windy,Sunday,No,11
+Samudra Devi,Maradana - Galle,30,Cloudy,Sunday,No,19
+Samudra Devi,Maradana - Galle,33,Windy,Sunday,No,21
+Samudra Devi,Maradana - Galle,30,Sunny,Sunday,No,20
+Samudra Devi,Maradana - Galle,32,Rainy,Sunday,No,12
+Samudra Devi,Maradana - Galle,31,Rainy,Sunday,No,16
+Samudra Devi,Maradana - Galle,32,Rainy,Sunday,No,13
+Samudra Devi,Maradana - Galle,33,Sunny,Sunday,No,6
+Samudra Devi,Maradana - Galle,30,Rainy,Sunday,No,25
+Samudra Devi,Maradana - Galle,31,Cloudy,Sunday,No,22
+Samudra Devi,Maradana - Galle,31,Cloudy,Sunday,No,11
+Samudra Devi,Maradana - Galle,30,Cloudy,Sunday,No,20
+Samudra Devi,Maradana - Galle,31,Rainy,Sunday,Yes,19
+Samudra Devi,Galle - Maradana,32,Rainy,Monday,No,30
+Samudra Devi,Galle - Maradana,33,Rainy,Monday,No,36
+Samudra Devi,Galle - Maradana,31,Windy,Monday,No,3
+Samudra Devi,Galle - Maradana,33,Windy,Monday,No,1
+Samudra Devi,Galle - Maradana,34,Sunny,Monday,No,0
+Samudra Devi,Galle - Maradana,33,Sunny,Monday,No,2
+Samudra Devi,Galle - Maradana,34,Rainy,Monday,No,23
+Samudra Devi,Galle - Maradana,32,Sunny,Monday,No,3
+Samudra Devi,Galle - Maradana,29,Rainy,Monday,No,18
+Samudra Devi,Galle - Maradana,33,Sunny,Monday,No,8
+Samudra Devi,Galle - Maradana,29,Sunny,Monday,No,15
+Samudra Devi,Galle - Maradana,29,Cloudy,Monday,No,13
+Samudra Devi,Galle - Maradana,32,Sunny,Monday,No,11
+Samudra Devi,Galle - Maradana,33,Rainy,Monday,No,13
+Samudra Devi,Galle - Maradana,29,Sunny,Monday,No,3
+Samudra Devi,Galle - Maradana,33,Rainy,Monday,No,16
+Samudra Devi,Galle - Maradana,32,Sunny,Monday,No,2
+Samudra Devi,Galle - Maradana,30,Cloudy,Monday,No,7
+Samudra Devi,Galle - Maradana,34,Sunny,Monday,Yes,0
+Samudra Devi,Galle - Maradana,28,Rainy,Monday,No,25
+Samudra Devi,Galle - Maradana,32,Sunny,Monday,No,14
+Samudra Devi,Galle - Maradana,32,Sunny,Monday,Yes,13
+Samudra Devi,Galle - Maradana,28,Rainy,Monday,Yes,30
+Samudra Devi,Galle - Maradana,33,Rainy,Monday,No,20
+Samudra Devi,Galle - Maradana,29,Cloudy,Monday,No,0
+Samudra Devi,Galle - Maradana,30,Sunny,Monday,No,1
+Samudra Devi,Galle - Maradana,31,Cloudy,Monday,No,6
+Samudra Devi,Galle - Maradana,32,Sunny,Monday,No,12
+Samudra Devi,Galle - Maradana,29,Rainy,Monday,No,18
+Samudra Devi,Galle - Maradana,33,Rainy,Monday,No,18
+Samudra Devi,Galle - Maradana,32,Sunny,Monday,No,7
+Samudra Devi,Galle - Maradana,30,Cloudy,Monday,No,2
+Samudra Devi,Galle - Maradana,29,Sunny,Monday,No,4
+Samudra Devi,Galle - Maradana,28,Sunny,Monday,No,13
+Samudra Devi,Galle - Maradana,33,Sunny,Monday,No,10
+Samudra Devi,Galle - Maradana,32,Sunny,Monday,No,8
+Samudra Devi,Galle - Maradana,32,Cloudy,Monday,No,10
+Samudra Devi,Galle - Maradana,32,Cloudy,Monday,No,8
+Samudra Devi,Galle - Maradana,28,Sunny,Monday,Yes,11
+Samudra Devi,Galle - Maradana,31,Cloudy,Monday,Yes,2
+Samudra Devi,Galle - Maradana,33,Sunny,Monday,No,14
+Samudra Devi,Galle - Maradana,29,Sunny,Monday,No,15
+Samudra Devi,Galle - Maradana,30,Sunny,Monday,No,6
+Samudra Devi,Galle - Maradana,34,Rainy,Monday,No,20
+Samudra Devi,Galle - Maradana,28,Cloudy,Monday,No,12
+Samudra Devi,Galle - Maradana,34,Sunny,Monday,No,6
+Samudra Devi,Galle - Maradana,30,Rainy,Monday,No,26
+Samudra Devi,Galle - Maradana,33,Cloudy,Monday,No,5
+Samudra Devi,Galle - Maradana,30,Cloudy,Monday,No,9
+Samudra Devi,Galle - Maradana,34,Sunny,Monday,No,9
+Samudra Devi,Galle - Maradana,30,Cloudy,Tuesday,No,5
+Samudra Devi,Galle - Maradana,28,Sunny,Tuesday,No,11
+Samudra Devi,Galle - Maradana,33,Rainy,Tuesday,No,34
+Samudra Devi,Galle - Maradana,33,Sunny,Tuesday,No,2
+Samudra Devi,Galle - Maradana,33,Sunny,Tuesday,No,2
+Samudra Devi,Galle - Maradana,31,Cloudy,Tuesday,No,5
+Samudra Devi,Galle - Maradana,30,Cloudy,Tuesday,No,15
+Samudra Devi,Galle - Maradana,30,Sunny,Tuesday,No,11
+Samudra Devi,Galle - Maradana,34,Sunny,Tuesday,No,9
+Samudra Devi,Galle - Maradana,30,Rainy,Tuesday,No,32
+Samudra Devi,Galle - Maradana,34,Rainy,Tuesday,No,13
+Samudra Devi,Galle - Maradana,33,Sunny,Tuesday,No,11
+Samudra Devi,Galle - Maradana,34,Cloudy,Tuesday,No,10
+Samudra Devi,Galle - Maradana,28,Cloudy,Tuesday,No,8
+Samudra Devi,Galle - Maradana,31,Rainy,Tuesday,No,20
+Samudra Devi,Galle - Maradana,30,Sunny,Tuesday,No,15
+Samudra Devi,Galle - Maradana,29,Cloudy,Tuesday,No,14
+Samudra Devi,Galle - Maradana,29,Sunny,Tuesday,No,9
+Samudra Devi,Galle - Maradana,32,Cloudy,Tuesday,No,10
+Samudra Devi,Galle - Maradana,31,Cloudy,Tuesday,No,10
+Samudra Devi,Galle - Maradana,28,Sunny,Tuesday,Yes,13
+Samudra Devi,Galle - Maradana,32,Rainy,Tuesday,No,26
+Samudra Devi,Galle - Maradana,30,Sunny,Tuesday,No,6
+Samudra Devi,Galle - Maradana,30,Cloudy,Tuesday,No,14
+Samudra Devi,Galle - Maradana,34,Windy,Tuesday,No,15
+Samudra Devi,Galle - Maradana,28,Sunny,Tuesday,No,11
+Samudra Devi,Galle - Maradana,30,Sunny,Tuesday,No,9
+Samudra Devi,Galle - Maradana,30,Cloudy,Tuesday,No,3
+Samudra Devi,Galle - Maradana,30,Cloudy,Tuesday,No,9
+Samudra Devi,Galle - Maradana,33,Sunny,Tuesday,No,11
+Samudra Devi,Galle - Maradana,30,Sunny,Tuesday,No,10
+Samudra Devi,Galle - Maradana,33,Sunny,Tuesday,No,1
+Samudra Devi,Galle - Maradana,31,Sunny,Tuesday,No,13
+Samudra Devi,Galle - Maradana,28,Cloudy,Tuesday,No,7
+Samudra Devi,Galle - Maradana,34,Rainy,Tuesday,No,37
+Samudra Devi,Galle - Maradana,32,Rainy,Tuesday,No,23
+Samudra Devi,Galle - Maradana,34,Sunny,Tuesday,No,1
+Samudra Devi,Galle - Maradana,30,Windy,Tuesday,No,8
+Samudra Devi,Galle - Maradana,30,Sunny,Tuesday,No,4
+Samudra Devi,Galle - Maradana,31,Sunny,Tuesday,No,4
+Samudra Devi,Galle - Maradana,31,Rainy,Tuesday,Yes,11
+Samudra Devi,Galle - Maradana,29,Rainy,Tuesday,No,25
+Samudra Devi,Galle - Maradana,31,Rainy,Tuesday,No,27
+Samudra Devi,Galle - Maradana,34,Sunny,Tuesday,No,7
+Samudra Devi,Galle - Maradana,34,Rainy,Tuesday,No,31
+Samudra Devi,Galle - Maradana,31,Windy,Tuesday,No,7
+Samudra Devi,Galle - Maradana,33,Sunny,Tuesday,No,9
+Samudra Devi,Galle - Maradana,29,Rainy,Tuesday,Yes,32
+Samudra Devi,Galle - Maradana,29,Rainy,Tuesday,No,24
+Samudra Devi,Galle - Maradana,31,Cloudy,Tuesday,No,7
+Samudra Devi,Galle - Maradana,28,Sunny,Wednesday,No,10
+Samudra Devi,Galle - Maradana,34,Sunny,Wednesday,No,5
+Samudra Devi,Galle - Maradana,30,Rainy,Wednesday,No,38
+Samudra Devi,Galle - Maradana,28,Cloudy,Wednesday,No,3
+Samudra Devi,Galle - Maradana,32,Cloudy,Wednesday,No,1
+Samudra Devi,Galle - Maradana,28,Sunny,Wednesday,No,10
+Samudra Devi,Galle - Maradana,34,Cloudy,Wednesday,No,0
+Samudra Devi,Galle - Maradana,33,Rainy,Wednesday,No,34
+Samudra Devi,Galle - Maradana,28,Sunny,Wednesday,No,15
+Samudra Devi,Galle - Maradana,28,Sunny,Wednesday,No,9
+Samudra Devi,Galle - Maradana,30,Cloudy,Wednesday,Yes,1
+Samudra Devi,Galle - Maradana,32,Rainy,Wednesday,No,29
+Samudra Devi,Galle - Maradana,30,Cloudy,Wednesday,No,0
+Samudra Devi,Galle - Maradana,30,Rainy,Wednesday,Yes,21
+Samudra Devi,Galle - Maradana,30,Sunny,Wednesday,No,3
+Samudra Devi,Galle - Maradana,32,Rainy,Wednesday,No,38
+Samudra Devi,Galle - Maradana,31,Cloudy,Wednesday,No,4
+Samudra Devi,Galle - Maradana,30,Cloudy,Wednesday,No,7
+Samudra Devi,Galle - Maradana,30,Rainy,Wednesday,No,19
+Samudra Devi,Galle - Maradana,30,Cloudy,Wednesday,No,1
+Samudra Devi,Galle - Maradana,34,Cloudy,Wednesday,No,3
+Samudra Devi,Galle - Maradana,32,Cloudy,Wednesday,Yes,15
+Samudra Devi,Galle - Maradana,28,Sunny,Wednesday,No,9
+Samudra Devi,Galle - Maradana,29,Cloudy,Wednesday,Yes,12
+Samudra Devi,Galle - Maradana,29,Sunny,Wednesday,No,8
+Samudra Devi,Galle - Maradana,29,Sunny,Wednesday,No,3
+Samudra Devi,Galle - Maradana,28,Sunny,Wednesday,No,6
+Samudra Devi,Galle - Maradana,32,Rainy,Wednesday,No,33
+Samudra Devi,Galle - Maradana,30,Rainy,Wednesday,No,16
+Samudra Devi,Galle - Maradana,31,Sunny,Wednesday,No,6
+Samudra Devi,Galle - Maradana,31,Windy,Wednesday,No,2
+Samudra Devi,Galle - Maradana,33,Cloudy,Wednesday,No,14
+Samudra Devi,Galle - Maradana,30,Sunny,Wednesday,No,10
+Samudra Devi,Galle - Maradana,32,Rainy,Wednesday,No,22
+Samudra Devi,Galle - Maradana,30,Sunny,Wednesday,No,0
+Samudra Devi,Galle - Maradana,34,Cloudy,Wednesday,Yes,12
+Samudra Devi,Galle - Maradana,33,Rainy,Wednesday,No,16
+Samudra Devi,Galle - Maradana,31,Cloudy,Wednesday,No,1
+Samudra Devi,Galle - Maradana,29,Rainy,Wednesday,No,36
+Samudra Devi,Galle - Maradana,32,Sunny,Wednesday,No,8
+Samudra Devi,Galle - Maradana,33,Windy,Wednesday,No,11
+Samudra Devi,Galle - Maradana,33,Rainy,Wednesday,No,37
+Samudra Devi,Galle - Maradana,28,Rainy,Wednesday,No,34
+Samudra Devi,Galle - Maradana,30,Sunny,Wednesday,No,15
+Samudra Devi,Galle - Maradana,31,Rainy,Wednesday,No,13
+Samudra Devi,Galle - Maradana,30,Sunny,Wednesday,No,10
+Samudra Devi,Galle - Maradana,32,Cloudy,Wednesday,No,6
+Samudra Devi,Galle - Maradana,34,Cloudy,Wednesday,No,2
+Samudra Devi,Galle - Maradana,30,Rainy,Wednesday,No,36
+Samudra Devi,Galle - Maradana,30,Sunny,Wednesday,No,1
+Samudra Devi,Galle - Maradana,31,Windy,Thursday,No,6
+Samudra Devi,Galle - Maradana,29,Cloudy,Thursday,No,8
+Samudra Devi,Galle - Maradana,34,Sunny,Thursday,No,3
+Samudra Devi,Galle - Maradana,29,Rainy,Thursday,No,13
+Samudra Devi,Galle - Maradana,33,Sunny,Thursday,No,1
+Samudra Devi,Galle - Maradana,30,Sunny,Thursday,No,8
+Samudra Devi,Galle - Maradana,31,Sunny,Thursday,No,13
+Samudra Devi,Galle - Maradana,28,Sunny,Thursday,Yes,12
+Samudra Devi,Galle - Maradana,28,Cloudy,Thursday,No,10
+Samudra Devi,Galle - Maradana,28,Cloudy,Thursday,No,2
+Samudra Devi,Galle - Maradana,30,Sunny,Thursday,No,1
+Samudra Devi,Galle - Maradana,31,Rainy,Thursday,No,25
+Samudra Devi,Galle - Maradana,31,Sunny,Thursday,No,6
+Samudra Devi,Galle - Maradana,34,Cloudy,Thursday,Yes,5
+Samudra Devi,Galle - Maradana,30,Sunny,Thursday,Yes,11
+Samudra Devi,Galle - Maradana,28,Cloudy,Thursday,No,1
+Samudra Devi,Galle - Maradana,34,Sunny,Thursday,No,14
+Samudra Devi,Galle - Maradana,30,Cloudy,Thursday,No,0
+Samudra Devi,Galle - Maradana,34,Sunny,Thursday,No,0
+Samudra Devi,Galle - Maradana,29,Rainy,Thursday,Yes,27
+Samudra Devi,Galle - Maradana,28,Cloudy,Thursday,No,4
+Samudra Devi,Galle - Maradana,30,Rainy,Thursday,No,10
+Samudra Devi,Galle - Maradana,31,Cloudy,Thursday,No,4
+Samudra Devi,Galle - Maradana,33,Rainy,Thursday,No,21
+Samudra Devi,Galle - Maradana,33,Sunny,Thursday,No,15
+Samudra Devi,Galle - Maradana,33,Rainy,Thursday,No,35
+Samudra Devi,Galle - Maradana,31,Cloudy,Thursday,No,4
+Samudra Devi,Galle - Maradana,28,Sunny,Thursday,No,15
+Samudra Devi,Galle - Maradana,30,Sunny,Thursday,No,2
+Samudra Devi,Galle - Maradana,28,Sunny,Thursday,No,1
+Samudra Devi,Galle - Maradana,34,Cloudy,Thursday,No,11
+Samudra Devi,Galle - Maradana,34,Rainy,Thursday,Yes,14
+Samudra Devi,Galle - Maradana,30,Windy,Thursday,No,9
+Samudra Devi,Galle - Maradana,32,Sunny,Thursday,No,14
+Samudra Devi,Galle - Maradana,33,Rainy,Thursday,No,26
+Samudra Devi,Galle - Maradana,29,Sunny,Thursday,No,1
+Samudra Devi,Galle - Maradana,30,Windy,Thursday,No,4
+Samudra Devi,Galle - Maradana,32,Cloudy,Thursday,No,10
+Samudra Devi,Galle - Maradana,28,Sunny,Thursday,No,15
+Samudra Devi,Galle - Maradana,29,Rainy,Thursday,No,22
+Samudra Devi,Galle - Maradana,29,Sunny,Thursday,No,3
+Samudra Devi,Galle - Maradana,32,Sunny,Thursday,No,0
+Samudra Devi,Galle - Maradana,28,Windy,Thursday,No,6
+Samudra Devi,Galle - Maradana,31,Cloudy,Thursday,No,14
+Samudra Devi,Galle - Maradana,30,Sunny,Thursday,No,10
+Samudra Devi,Galle - Maradana,31,Sunny,Thursday,No,14
+Samudra Devi,Galle - Maradana,30,Sunny,Thursday,No,12
+Samudra Devi,Galle - Maradana,31,Sunny,Thursday,No,11
+Samudra Devi,Galle - Maradana,32,Sunny,Thursday,No,14
+Samudra Devi,Galle - Maradana,31,Cloudy,Thursday,No,7
+Samudra Devi,Galle - Maradana,32,Sunny,Friday,No,9
+Samudra Devi,Galle - Maradana,30,Rainy,Friday,No,20
+Samudra Devi,Galle - Maradana,28,Sunny,Friday,No,0
+Samudra Devi,Galle - Maradana,33,Rainy,Friday,No,38
+Samudra Devi,Galle - Maradana,29,Sunny,Friday,No,14
+Samudra Devi,Galle - Maradana,34,Sunny,Friday,No,13
+Samudra Devi,Galle - Maradana,30,Sunny,Friday,No,8
+Samudra Devi,Galle - Maradana,31,Sunny,Friday,Yes,7
+Samudra Devi,Galle - Maradana,33,Sunny,Friday,No,14
+Samudra Devi,Galle - Maradana,32,Sunny,Friday,Yes,5
+Samudra Devi,Galle - Maradana,31,Cloudy,Friday,No,9
+Samudra Devi,Galle - Maradana,31,Sunny,Friday,Yes,7
+Samudra Devi,Galle - Maradana,34,Rainy,Friday,No,39
+Samudra Devi,Galle - Maradana,28,Cloudy,Friday,No,0
+Samudra Devi,Galle - Maradana,28,Rainy,Friday,No,22
+Samudra Devi,Galle - Maradana,34,Sunny,Friday,No,11
+Samudra Devi,Galle - Maradana,34,Rainy,Friday,No,21
+Samudra Devi,Galle - Maradana,28,Sunny,Friday,No,8
+Samudra Devi,Galle - Maradana,33,Sunny,Friday,No,14
+Samudra Devi,Galle - Maradana,28,Sunny,Friday,No,3
+Samudra Devi,Galle - Maradana,30,Cloudy,Friday,No,5
+Samudra Devi,Galle - Maradana,34,Cloudy,Friday,Yes,15
+Samudra Devi,Galle - Maradana,29,Rainy,Friday,Yes,29
+Samudra Devi,Galle - Maradana,34,Sunny,Friday,No,3
+Samudra Devi,Galle - Maradana,32,Sunny,Friday,Yes,3
+Samudra Devi,Galle - Maradana,32,Cloudy,Friday,No,1
+Samudra Devi,Galle - Maradana,28,Cloudy,Friday,No,15
+Samudra Devi,Galle - Maradana,32,Rainy,Friday,Yes,12
+Samudra Devi,Galle - Maradana,33,Sunny,Friday,No,6
+Samudra Devi,Galle - Maradana,33,Sunny,Friday,No,4
+Samudra Devi,Galle - Maradana,31,Cloudy,Friday,No,7
+Samudra Devi,Galle - Maradana,30,Cloudy,Friday,No,2
+Samudra Devi,Galle - Maradana,28,Sunny,Friday,No,8
+Samudra Devi,Galle - Maradana,29,Sunny,Friday,No,8
+Samudra Devi,Galle - Maradana,30,Rainy,Friday,No,33
+Samudra Devi,Galle - Maradana,34,Sunny,Friday,No,0
+Samudra Devi,Galle - Maradana,28,Sunny,Friday,No,4
+Samudra Devi,Galle - Maradana,33,Sunny,Friday,No,4
+Samudra Devi,Galle - Maradana,28,Windy,Friday,No,11
+Samudra Devi,Galle - Maradana,28,Sunny,Friday,No,9
+Samudra Devi,Galle - Maradana,34,Sunny,Friday,No,10
+Samudra Devi,Galle - Maradana,32,Cloudy,Friday,No,10
+Samudra Devi,Galle - Maradana,34,Sunny,Friday,No,5
+Samudra Devi,Galle - Maradana,32,Sunny,Friday,No,7
+Samudra Devi,Galle - Maradana,33,Sunny,Friday,No,3
+Samudra Devi,Galle - Maradana,34,Cloudy,Friday,Yes,15
+Samudra Devi,Galle - Maradana,30,Sunny,Friday,No,7
+Samudra Devi,Galle - Maradana,34,Sunny,Friday,Yes,9
+Samudra Devi,Galle - Maradana,31,Cloudy,Friday,No,4
+Samudra Devi,Galle - Maradana,31,Sunny,Friday,No,2
+Samudra Devi,Galle - Maradana,34,Cloudy,Saturday,Yes,5
+Samudra Devi,Galle - Maradana,29,Cloudy,Saturday,No,24
+Samudra Devi,Galle - Maradana,33,Cloudy,Saturday,Yes,8
+Samudra Devi,Galle - Maradana,28,Sunny,Saturday,No,10
+Samudra Devi,Galle - Maradana,31,Cloudy,Saturday,No,10
+Samudra Devi,Galle - Maradana,33,Cloudy,Saturday,No,12
+Samudra Devi,Galle - Maradana,28,Cloudy,Saturday,No,17
+Samudra Devi,Galle - Maradana,34,Sunny,Saturday,No,14
+Samudra Devi,Galle - Maradana,28,Sunny,Saturday,No,25
+Samudra Devi,Galle - Maradana,31,Rainy,Saturday,No,23
+Samudra Devi,Galle - Maradana,28,Sunny,Saturday,No,15
+Samudra Devi,Galle - Maradana,33,Cloudy,Saturday,No,14
+Samudra Devi,Galle - Maradana,31,Cloudy,Saturday,No,20
+Samudra Devi,Galle - Maradana,31,Sunny,Saturday,No,22
+Samudra Devi,Galle - Maradana,33,Sunny,Saturday,No,14
+Samudra Devi,Galle - Maradana,29,Rainy,Saturday,No,14
+Samudra Devi,Galle - Maradana,33,Sunny,Saturday,No,11
+Samudra Devi,Galle - Maradana,31,Rainy,Saturday,No,12
+Samudra Devi,Galle - Maradana,29,Sunny,Saturday,No,9
+Samudra Devi,Galle - Maradana,34,Cloudy,Saturday,No,5
+Samudra Devi,Galle - Maradana,32,Sunny,Saturday,No,13
+Samudra Devi,Galle - Maradana,28,Cloudy,Saturday,No,25
+Samudra Devi,Galle - Maradana,34,Rainy,Saturday,No,30
+Samudra Devi,Galle - Maradana,30,Rainy,Saturday,No,29
+Samudra Devi,Galle - Maradana,30,Windy,Saturday,No,5
+Samudra Devi,Galle - Maradana,32,Cloudy,Saturday,No,18
+Samudra Devi,Galle - Maradana,30,Rainy,Saturday,No,10
+Samudra Devi,Galle - Maradana,29,Cloudy,Saturday,No,22
+Samudra Devi,Galle - Maradana,29,Rainy,Saturday,No,36
+Samudra Devi,Galle - Maradana,31,Sunny,Saturday,No,10
+Samudra Devi,Galle - Maradana,34,Sunny,Saturday,No,14
+Samudra Devi,Galle - Maradana,33,Sunny,Saturday,No,6
+Samudra Devi,Galle - Maradana,29,Sunny,Saturday,No,11
+Samudra Devi,Galle - Maradana,30,Sunny,Saturday,No,10
+Samudra Devi,Galle - Maradana,32,Rainy,Saturday,No,21
+Samudra Devi,Galle - Maradana,34,Sunny,Saturday,No,20
+Samudra Devi,Galle - Maradana,33,Sunny,Saturday,No,17
+Samudra Devi,Galle - Maradana,34,Cloudy,Saturday,No,16
+Samudra Devi,Galle - Maradana,29,Cloudy,Saturday,Yes,23
+Samudra Devi,Galle - Maradana,31,Sunny,Saturday,No,13
+Samudra Devi,Galle - Maradana,34,Sunny,Saturday,Yes,6
+Samudra Devi,Galle - Maradana,32,Cloudy,Saturday,No,13
+Samudra Devi,Galle - Maradana,32,Sunny,Saturday,No,23
+Samudra Devi,Galle - Maradana,31,Rainy,Saturday,No,28
+Samudra Devi,Galle - Maradana,31,Rainy,Saturday,Yes,18
+Samudra Devi,Galle - Maradana,33,Cloudy,Saturday,No,5
+Samudra Devi,Galle - Maradana,29,Rainy,Saturday,Yes,40
+Samudra Devi,Galle - Maradana,30,Rainy,Saturday,No,11
+Samudra Devi,Galle - Maradana,28,Windy,Saturday,No,16
+Samudra Devi,Galle - Maradana,32,Sunny,Saturday,No,21
+Samudra Devi,Galle - Maradana,32,Rainy,Sunday,No,30
+Samudra Devi,Galle - Maradana,28,Sunny,Sunday,No,24
+Samudra Devi,Galle - Maradana,30,Sunny,Sunday,Yes,24
+Samudra Devi,Galle - Maradana,33,Sunny,Sunday,No,10
+Samudra Devi,Galle - Maradana,29,Sunny,Sunday,No,13
+Samudra Devi,Galle - Maradana,31,Rainy,Sunday,No,40
+Samudra Devi,Galle - Maradana,30,Sunny,Sunday,No,7
+Samudra Devi,Galle - Maradana,31,Sunny,Sunday,No,10
+Samudra Devi,Galle - Maradana,33,Sunny,Sunday,No,6
+Samudra Devi,Galle - Maradana,29,Sunny,Sunday,No,25
+Samudra Devi,Galle - Maradana,32,Sunny,Sunday,No,14
+Samudra Devi,Galle - Maradana,31,Sunny,Sunday,No,8
+Samudra Devi,Galle - Maradana,30,Cloudy,Sunday,No,23
+Samudra Devi,Galle - Maradana,31,Cloudy,Sunday,No,11
+Samudra Devi,Galle - Maradana,30,Cloudy,Sunday,No,8
+Samudra Devi,Galle - Maradana,28,Rainy,Sunday,No,33
+Samudra Devi,Galle - Maradana,28,Cloudy,Sunday,No,14
+Samudra Devi,Galle - Maradana,28,Sunny,Sunday,No,24
+Samudra Devi,Galle - Maradana,34,Cloudy,Sunday,No,16
+Samudra Devi,Galle - Maradana,28,Sunny,Sunday,No,16
+Samudra Devi,Galle - Maradana,34,Rainy,Sunday,No,23
+Samudra Devi,Galle - Maradana,34,Sunny,Sunday,No,23
+Samudra Devi,Galle - Maradana,33,Sunny,Sunday,Yes,7
+Samudra Devi,Galle - Maradana,32,Sunny,Sunday,No,21
+Samudra Devi,Galle - Maradana,30,Sunny,Sunday,No,11
+Samudra Devi,Galle - Maradana,30,Rainy,Sunday,No,16
+Samudra Devi,Galle - Maradana,29,Rainy,Sunday,No,40
+Samudra Devi,Galle - Maradana,29,Cloudy,Sunday,No,14
+Samudra Devi,Galle - Maradana,34,Rainy,Sunday,No,26
+Samudra Devi,Galle - Maradana,28,Sunny,Sunday,No,15
+Samudra Devi,Galle - Maradana,32,Sunny,Sunday,No,19
+Samudra Devi,Galle - Maradana,29,Rainy,Sunday,No,11
+Samudra Devi,Galle - Maradana,29,Rainy,Sunday,No,39
+Samudra Devi,Galle - Maradana,34,Sunny,Sunday,Yes,13
+Samudra Devi,Galle - Maradana,28,Cloudy,Sunday,No,20
+Samudra Devi,Galle - Maradana,28,Rainy,Sunday,Yes,23
+Samudra Devi,Galle - Maradana,31,Rainy,Sunday,No,17
+Samudra Devi,Galle - Maradana,34,Cloudy,Sunday,No,6
+Samudra Devi,Galle - Maradana,30,Windy,Sunday,No,14
+Samudra Devi,Galle - Maradana,31,Cloudy,Sunday,No,18
+Samudra Devi,Galle - Maradana,30,Cloudy,Sunday,No,21
+Samudra Devi,Galle - Maradana,30,Sunny,Sunday,No,21
+Samudra Devi,Galle - Maradana,31,Sunny,Sunday,No,15
+Samudra Devi,Galle - Maradana,31,Cloudy,Sunday,No,5
+Samudra Devi,Galle - Maradana,33,Sunny,Sunday,No,10
+Samudra Devi,Galle - Maradana,34,Cloudy,Sunday,No,12
+Samudra Devi,Galle - Maradana,29,Sunny,Sunday,No,6
+Samudra Devi,Galle - Maradana,31,Sunny,Sunday,No,12
+Samudra Devi,Galle - Maradana,30,Sunny,Sunday,No,5
+Samudra Devi,Galle - Maradana,29,Sunny,Sunday,No,7
+Yal Devi,MT-Lavania-Kankesanturai,25,cloudy,Monday,Yes,15
+Yal Devi,MT-Lavania-Kankesanturai,25,cloudy,Monday,Yes,15
+Yal Devi,MT-Lavania-Kankesanturai,30,rainy,Monday,No,21
+Yal Devi,MT-Lavania-Kankesanturai,27,sunny,Monday,Yes,17
+Yal Devi,MT-Lavania-Kankesanturai,29,rainy,Monday,Yes,17
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Monday,Yes,7
+Yal Devi,MT-Lavania-Kankesanturai,33,rainy,Monday,Yes,15
+Yal Devi,MT-Lavania-Kankesanturai,34,cloudy,Monday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,24,rainy,Monday,Yes,23
+Yal Devi,MT-Lavania-Kankesanturai,34,rainy,Monday,No,24
+Yal Devi,MT-Lavania-Kankesanturai,25,cloudy,Monday,Yes,12
+Yal Devi,MT-Lavania-Kankesanturai,29,cloudy,Monday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,26,cloudy,Monday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,27,sunny,Monday,Yes,2
+Yal Devi,MT-Lavania-Kankesanturai,35,rainy,Monday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,33,rainy,Monday,Yes,13
+Yal Devi,MT-Lavania-Kankesanturai,34,cloudy,Monday,Yes,12
+Yal Devi,MT-Lavania-Kankesanturai,35,cloudy,Monday,Yes,16
+Yal Devi,MT-Lavania-Kankesanturai,32,rainy,Monday,Yes,8
+Yal Devi,MT-Lavania-Kankesanturai,33,rainy,Monday,No,6
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Monday,No,26
+Yal Devi,MT-Lavania-Kankesanturai,32,sunny,Monday,No,5
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Monday,No,10
+Yal Devi,MT-Lavania-Kankesanturai,33,rainy,Monday,Yes,1
+Yal Devi,MT-Lavania-Kankesanturai,25,cloudy,Monday,Yes,5
+Yal Devi,MT-Lavania-Kankesanturai,24,rainy,Monday,Yes,24
+Yal Devi,MT-Lavania-Kankesanturai,34,rainy,Monday,No,7
+Yal Devi,MT-Lavania-Kankesanturai,34,sunny,Monday,Yes,25
+Yal Devi,MT-Lavania-Kankesanturai,35,rainy,Monday,Yes,10
+Yal Devi,MT-Lavania-Kankesanturai,32,rainy,Monday,No,16
+Yal Devi,MT-Lavania-Kankesanturai,27,sunny,Tuesday,No,19
+Yal Devi,MT-Lavania-Kankesanturai,26,sunny,Tuesday,Yes,7
+Yal Devi,MT-Lavania-Kankesanturai,24,sunny,Tuesday,Yes,44
+Yal Devi,MT-Lavania-Kankesanturai,29,rainy,Tuesday,No,34
+Yal Devi,MT-Lavania-Kankesanturai,25,sunny,Tuesday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Tuesday,Yes,31
+Yal Devi,MT-Lavania-Kankesanturai,34,rainy,Tuesday,No,17
+Yal Devi,MT-Lavania-Kankesanturai,31,cloudy,Tuesday,No,21
+Yal Devi,MT-Lavania-Kankesanturai,25,sunny,Tuesday,No,16
+Yal Devi,MT-Lavania-Kankesanturai,31,cloudy,Tuesday,Yes,26
+Yal Devi,MT-Lavania-Kankesanturai,31,cloudy,Tuesday,No,10
+Yal Devi,MT-Lavania-Kankesanturai,27,sunny,Tuesday,Yes,14
+Yal Devi,MT-Lavania-Kankesanturai,33,sunny,Tuesday,Yes,15
+Yal Devi,MT-Lavania-Kankesanturai,34,rainy,Tuesday,No,4
+Yal Devi,MT-Lavania-Kankesanturai,27,cloudy,Tuesday,Yes,4
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Tuesday,No,14
+Yal Devi,MT-Lavania-Kankesanturai,34,cloudy,Tuesday,No,7
+Yal Devi,MT-Lavania-Kankesanturai,34,sunny,Tuesday,Yes,6
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Tuesday,No,1
+Yal Devi,MT-Lavania-Kankesanturai,35,cloudy,Tuesday,No,14
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Tuesday,Yes,24
+Yal Devi,MT-Lavania-Kankesanturai,30,sunny,Tuesday,Yes,17
+Yal Devi,MT-Lavania-Kankesanturai,26,cloudy,Tuesday,No,7
+Yal Devi,MT-Lavania-Kankesanturai,28,sunny,Tuesday,Yes,27
+Yal Devi,MT-Lavania-Kankesanturai,29,cloudy,Tuesday,No,6
+Yal Devi,MT-Lavania-Kankesanturai,25,rainy,Tuesday,Yes,24
+Yal Devi,MT-Lavania-Kankesanturai,35,cloudy,Tuesday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Tuesday,Yes,14
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Tuesday,Yes,11
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Tuesday,No,3
+Yal Devi,MT-Lavania-Kankesanturai,34,rainy,Wednesday,Yes,13
+Yal Devi,MT-Lavania-Kankesanturai,33,cloudy,Wednesday,Yes,7
+Yal Devi,MT-Lavania-Kankesanturai,35,rainy,Wednesday,No,18
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Wednesday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,24,sunny,Wednesday,Yes,11
+Yal Devi,MT-Lavania-Kankesanturai,33,rainy,Wednesday,No,22
+Yal Devi,MT-Lavania-Kankesanturai,26,cloudy,Wednesday,No,27
+Yal Devi,MT-Lavania-Kankesanturai,30,cloudy,Wednesday,No,16
+Yal Devi,MT-Lavania-Kankesanturai,30,rainy,Wednesday,No,36
+Yal Devi,MT-Lavania-Kankesanturai,30,rainy,Wednesday,No,7
+Yal Devi,MT-Lavania-Kankesanturai,35,rainy,Wednesday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,26,cloudy,Wednesday,No,26
+Yal Devi,MT-Lavania-Kankesanturai,25,sunny,Wednesday,No,10
+Yal Devi,MT-Lavania-Kankesanturai,29,rainy,Wednesday,Yes,20
+Yal Devi,MT-Lavania-Kankesanturai,24,sunny,Wednesday,No,15
+Yal Devi,MT-Lavania-Kankesanturai,26,rainy,Wednesday,Yes,11
+Yal Devi,MT-Lavania-Kankesanturai,31,cloudy,Wednesday,No,11
+Yal Devi,MT-Lavania-Kankesanturai,32,rainy,Wednesday,No,12
+Yal Devi,MT-Lavania-Kankesanturai,27,sunny,Wednesday,Yes,15
+Yal Devi,MT-Lavania-Kankesanturai,27,rainy,Wednesday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Wednesday,Yes,18
+Yal Devi,MT-Lavania-Kankesanturai,33,sunny,Wednesday,Yes,1
+Yal Devi,MT-Lavania-Kankesanturai,33,rainy,Wednesday,Yes,1
+Yal Devi,MT-Lavania-Kankesanturai,32,cloudy,Wednesday,Yes,17
+Yal Devi,MT-Lavania-Kankesanturai,26,rainy,Wednesday,Yes,30
+Yal Devi,MT-Lavania-Kankesanturai,29,cloudy,Wednesday,No,10
+Yal Devi,MT-Lavania-Kankesanturai,34,sunny,Wednesday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,29,rainy,Wednesday,Yes,13
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Wednesday,No,18
+Yal Devi,MT-Lavania-Kankesanturai,29,cloudy,Wednesday,No,21
+Yal Devi,MT-Lavania-Kankesanturai,30,rainy,Thursday,Yes,1
+Yal Devi,MT-Lavania-Kankesanturai,27,rainy,Thursday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,31,cloudy,Thursday,Yes,23
+Yal Devi,MT-Lavania-Kankesanturai,34,sunny,Thursday,No,6
+Yal Devi,MT-Lavania-Kankesanturai,32,sunny,Thursday,Yes,19
+Yal Devi,MT-Lavania-Kankesanturai,33,rainy,Thursday,No,11
+Yal Devi,MT-Lavania-Kankesanturai,32,sunny,Thursday,Yes,29
+Yal Devi,MT-Lavania-Kankesanturai,31,sunny,Thursday,No,10
+Yal Devi,MT-Lavania-Kankesanturai,26,sunny,Thursday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Thursday,No,20
+Yal Devi,MT-Lavania-Kankesanturai,28,rainy,Thursday,No,9
+Yal Devi,MT-Lavania-Kankesanturai,25,cloudy,Thursday,No,16
+Yal Devi,MT-Lavania-Kankesanturai,24,rainy,Thursday,Yes,9
+Yal Devi,MT-Lavania-Kankesanturai,26,cloudy,Thursday,No,18
+Yal Devi,MT-Lavania-Kankesanturai,30,rainy,Thursday,Yes,20
+Yal Devi,MT-Lavania-Kankesanturai,27,rainy,Thursday,No,44
+Yal Devi,MT-Lavania-Kankesanturai,31,cloudy,Thursday,No,23
+Yal Devi,MT-Lavania-Kankesanturai,34,sunny,Thursday,No,19
+Yal Devi,MT-Lavania-Kankesanturai,34,cloudy,Thursday,Yes,21
+Yal Devi,MT-Lavania-Kankesanturai,30,cloudy,Thursday,No,26
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Thursday,Yes,15
+Yal Devi,MT-Lavania-Kankesanturai,33,rainy,Thursday,No,2
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Thursday,Yes,15
+Yal Devi,MT-Lavania-Kankesanturai,27,cloudy,Thursday,No,17
+Yal Devi,MT-Lavania-Kankesanturai,32,sunny,Thursday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,34,sunny,Thursday,No,17
+Yal Devi,MT-Lavania-Kankesanturai,29,sunny,Thursday,No,18
+Yal Devi,MT-Lavania-Kankesanturai,24,rainy,Thursday,No,32
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Thursday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,35,cloudy,Thursday,Yes,19
+Yal Devi,MT-Lavania-Kankesanturai,24,sunny,Friday,Yes,17
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Friday,Yes,31
+Yal Devi,MT-Lavania-Kankesanturai,31,cloudy,Friday,Yes,17
+Yal Devi,MT-Lavania-Kankesanturai,27,cloudy,Friday,Yes,28
+Yal Devi,MT-Lavania-Kankesanturai,26,rainy,Friday,No,23
+Yal Devi,MT-Lavania-Kankesanturai,25,rainy,Friday,No,27
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Friday,Yes,8
+Yal Devi,MT-Lavania-Kankesanturai,31,cloudy,Friday,Yes,15
+Yal Devi,MT-Lavania-Kankesanturai,34,cloudy,Friday,No,20
+Yal Devi,MT-Lavania-Kankesanturai,33,sunny,Friday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Friday,Yes,5
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Friday,Yes,2
+Yal Devi,MT-Lavania-Kankesanturai,25,cloudy,Friday,No,3
+Yal Devi,MT-Lavania-Kankesanturai,34,sunny,Friday,No,12
+Yal Devi,MT-Lavania-Kankesanturai,29,rainy,Friday,Yes,3
+Yal Devi,MT-Lavania-Kankesanturai,32,cloudy,Friday,No,20
+Yal Devi,MT-Lavania-Kankesanturai,25,cloudy,Friday,No,19
+Yal Devi,MT-Lavania-Kankesanturai,27,rainy,Friday,No,26
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Friday,Yes,14
+Yal Devi,MT-Lavania-Kankesanturai,24,sunny,Friday,No,14
+Yal Devi,MT-Lavania-Kankesanturai,29,sunny,Friday,Yes,25
+Yal Devi,MT-Lavania-Kankesanturai,29,sunny,Friday,Yes,7
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Friday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,35,cloudy,Friday,Yes,12
+Yal Devi,MT-Lavania-Kankesanturai,24,sunny,Friday,Yes,6
+Yal Devi,MT-Lavania-Kankesanturai,33,cloudy,Friday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,33,cloudy,Friday,Yes,24
+Yal Devi,MT-Lavania-Kankesanturai,24,sunny,Friday,No,9
+Yal Devi,MT-Lavania-Kankesanturai,26,cloudy,Friday,Yes,2
+Yal Devi,MT-Lavania-Kankesanturai,26,cloudy,Friday,Yes,18
+Yal Devi,MT-Lavania-Kankesanturai,32,rainy,Saturday,Yes,17
+Yal Devi,MT-Lavania-Kankesanturai,32,rainy,Saturday,Yes,16
+Yal Devi,MT-Lavania-Kankesanturai,26,sunny,Saturday,Yes,24
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Saturday,Yes,35
+Yal Devi,MT-Lavania-Kankesanturai,30,rainy,Saturday,No,19
+Yal Devi,MT-Lavania-Kankesanturai,34,rainy,Saturday,Yes,41
+Yal Devi,MT-Lavania-Kankesanturai,27,sunny,Saturday,Yes,7
+Yal Devi,MT-Lavania-Kankesanturai,30,cloudy,Saturday,No,2
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Saturday,Yes,12
+Yal Devi,MT-Lavania-Kankesanturai,24,cloudy,Saturday,No,21
+Yal Devi,MT-Lavania-Kankesanturai,25,sunny,Saturday,Yes,11
+Yal Devi,MT-Lavania-Kankesanturai,34,cloudy,Saturday,No,4
+Yal Devi,MT-Lavania-Kankesanturai,35,cloudy,Saturday,Yes,22
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Saturday,No,10
+Yal Devi,MT-Lavania-Kankesanturai,33,cloudy,Saturday,Yes,3
+Yal Devi,MT-Lavania-Kankesanturai,27,cloudy,Saturday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,35,cloudy,Saturday,Yes,25
+Yal Devi,MT-Lavania-Kankesanturai,29,rainy,Saturday,No,5
+Yal Devi,MT-Lavania-Kankesanturai,27,sunny,Saturday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,29,cloudy,Saturday,No,10
+Yal Devi,MT-Lavania-Kankesanturai,30,sunny,Saturday,No,10
+Yal Devi,MT-Lavania-Kankesanturai,27,rainy,Saturday,Yes,27
+Yal Devi,MT-Lavania-Kankesanturai,24,rainy,Saturday,Yes,9
+Yal Devi,MT-Lavania-Kankesanturai,32,cloudy,Saturday,Yes,8
+Yal Devi,MT-Lavania-Kankesanturai,26,cloudy,Saturday,No,20
+Yal Devi,MT-Lavania-Kankesanturai,35,rainy,Saturday,No,26
+Yal Devi,MT-Lavania-Kankesanturai,26,rainy,Saturday,Yes,15
+Yal Devi,MT-Lavania-Kankesanturai,32,rainy,Saturday,Yes,21
+Yal Devi,MT-Lavania-Kankesanturai,30,rainy,Saturday,Yes,7
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Saturday,No,14
+Yal Devi,MT-Lavania-Kankesanturai,30,sunny,Sunday,No,22
+Yal Devi,MT-Lavania-Kankesanturai,28,rainy,Sunday,Yes,10
+Yal Devi,MT-Lavania-Kankesanturai,31,sunny,Sunday,No,38
+Yal Devi,MT-Lavania-Kankesanturai,26,sunny,Sunday,Yes,26
+Yal Devi,MT-Lavania-Kankesanturai,33,rainy,Sunday,No,31
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Sunday,No,7
+Yal Devi,MT-Lavania-Kankesanturai,35,cloudy,Sunday,Yes,14
+Yal Devi,MT-Lavania-Kankesanturai,35,sunny,Sunday,Yes,14
+Yal Devi,MT-Lavania-Kankesanturai,28,cloudy,Sunday,No,14
+Yal Devi,MT-Lavania-Kankesanturai,31,rainy,Sunday,No,25
+Yal Devi,MT-Lavania-Kankesanturai,24,sunny,Sunday,Yes,18
+Yal Devi,MT-Lavania-Kankesanturai,29,sunny,Sunday,No,13
+Yal Devi,MT-Lavania-Kankesanturai,26,rainy,Sunday,Yes,5
+Yal Devi,MT-Lavania-Kankesanturai,34,sunny,Sunday,Yes,25
+Yal Devi,MT-Lavania-Kankesanturai,32,rainy,Sunday,No,26
+Yal Devi,MT-Lavania-Kankesanturai,25,sunny,Sunday,Yes,25
+Yal Devi,MT-Lavania-Kankesanturai,30,rainy,Sunday,Yes,12
+Yal Devi,MT-Lavania-Kankesanturai,34,cloudy,Sunday,Yes,3
+Yal Devi,MT-Lavania-Kankesanturai,35,rainy,Sunday,Yes,17
+Yal Devi,MT-Lavania-Kankesanturai,33,cloudy,Sunday,No,2
+Yal Devi,MT-Lavania-Kankesanturai,32,cloudy,Sunday,Yes,1
+Yal Devi,MT-Lavania-Kankesanturai,30,cloudy,Sunday,Yes,11
+Yal Devi,MT-Lavania-Kankesanturai,30,cloudy,Sunday,Yes,5
+Yal Devi,MT-Lavania-Kankesanturai,26,sunny,Sunday,No,0
+Yal Devi,MT-Lavania-Kankesanturai,29,cloudy,Sunday,No,19
+Yal Devi,MT-Lavania-Kankesanturai,31,cloudy,Sunday,Yes,0
+Yal Devi,MT-Lavania-Kankesanturai,29,rainy,Sunday,Yes,5
+Yal Devi,MT-Lavania-Kankesanturai,26,sunny,Sunday,No,31
+Yal Devi,MT-Lavania-Kankesanturai,26,cloudy,Sunday,No,15
+Yal Devi,MT-Lavania-Kankesanturai,35,sunny,Sunday,Yes,23
+Yal Devi,Kankesanturai-MT-Lavania,31,sunny,Monday,Yes,7
+Yal Devi,Kankesanturai-MT-Lavania,35,cloudy,Monday,Yes,23
+Yal Devi,Kankesanturai-MT-Lavania,28,sunny,Monday,Yes,7
+Yal Devi,Kankesanturai-MT-Lavania,29,sunny,Monday,No,17
+Yal Devi,Kankesanturai-MT-Lavania,34,sunny,Monday,Yes,3
+Yal Devi,Kankesanturai-MT-Lavania,34,rainy,Monday,Yes,11
+Yal Devi,Kankesanturai-MT-Lavania,35,cloudy,Monday,Yes,20
+Yal Devi,Kankesanturai-MT-Lavania,35,rainy,Monday,No,5
+Yal Devi,Kankesanturai-MT-Lavania,35,rainy,Monday,No,3
+Yal Devi,Kankesanturai-MT-Lavania,33,cloudy,Monday,Yes,8
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Monday,Yes,11
+Yal Devi,Kankesanturai-MT-Lavania,34,sunny,Monday,Yes,17
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Monday,Yes,29
+Yal Devi,Kankesanturai-MT-Lavania,29,rainy,Monday,No,3
+Yal Devi,Kankesanturai-MT-Lavania,28,sunny,Monday,Yes,15
+Yal Devi,Kankesanturai-MT-Lavania,33,sunny,Monday,No,1
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Monday,No,35
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Monday,Yes,16
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Monday,Yes,20
+Yal Devi,Kankesanturai-MT-Lavania,29,sunny,Monday,No,4
+Yal Devi,Kankesanturai-MT-Lavania,27,sunny,Monday,No,3
+Yal Devi,Kankesanturai-MT-Lavania,28,cloudy,Monday,No,17
+Yal Devi,Kankesanturai-MT-Lavania,25,sunny,Monday,No,33
+Yal Devi,Kankesanturai-MT-Lavania,32,rainy,Monday,Yes,14
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Monday,Yes,15
+Yal Devi,Kankesanturai-MT-Lavania,33,rainy,Monday,No,20
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Monday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,31,cloudy,Monday,No,28
+Yal Devi,Kankesanturai-MT-Lavania,27,cloudy,Monday,Yes,16
+Yal Devi,Kankesanturai-MT-Lavania,24,cloudy,Monday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,31,cloudy,Tuesday,No,21
+Yal Devi,Kankesanturai-MT-Lavania,32,cloudy,Tuesday,Yes,12
+Yal Devi,Kankesanturai-MT-Lavania,34,sunny,Tuesday,Yes,6
+Yal Devi,Kankesanturai-MT-Lavania,29,cloudy,Tuesday,Yes,32
+Yal Devi,Kankesanturai-MT-Lavania,32,sunny,Tuesday,Yes,5
+Yal Devi,Kankesanturai-MT-Lavania,31,sunny,Tuesday,No,0
+Yal Devi,Kankesanturai-MT-Lavania,34,rainy,Tuesday,Yes,19
+Yal Devi,Kankesanturai-MT-Lavania,30,sunny,Tuesday,No,12
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Tuesday,No,5
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Tuesday,Yes,22
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Tuesday,No,39
+Yal Devi,Kankesanturai-MT-Lavania,27,cloudy,Tuesday,Yes,18
+Yal Devi,Kankesanturai-MT-Lavania,32,sunny,Tuesday,No,8
+Yal Devi,Kankesanturai-MT-Lavania,31,rainy,Tuesday,No,26
+Yal Devi,Kankesanturai-MT-Lavania,31,rainy,Tuesday,No,19
+Yal Devi,Kankesanturai-MT-Lavania,25,cloudy,Tuesday,Yes,40
+Yal Devi,Kankesanturai-MT-Lavania,32,rainy,Tuesday,No,9
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Tuesday,No,39
+Yal Devi,Kankesanturai-MT-Lavania,29,rainy,Tuesday,Yes,32
+Yal Devi,Kankesanturai-MT-Lavania,34,sunny,Tuesday,Yes,29
+Yal Devi,Kankesanturai-MT-Lavania,28,sunny,Tuesday,No,8
+Yal Devi,Kankesanturai-MT-Lavania,27,sunny,Tuesday,Yes,3
+Yal Devi,Kankesanturai-MT-Lavania,35,cloudy,Tuesday,No,11
+Yal Devi,Kankesanturai-MT-Lavania,34,sunny,Tuesday,Yes,11
+Yal Devi,Kankesanturai-MT-Lavania,26,sunny,Tuesday,No,10
+Yal Devi,Kankesanturai-MT-Lavania,27,rainy,Tuesday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,26,rainy,Tuesday,No,11
+Yal Devi,Kankesanturai-MT-Lavania,29,rainy,Tuesday,No,28
+Yal Devi,Kankesanturai-MT-Lavania,26,rainy,Tuesday,No,9
+Yal Devi,Kankesanturai-MT-Lavania,33,rainy,Tuesday,Yes,5
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Wednesday,No,27
+Yal Devi,Kankesanturai-MT-Lavania,24,cloudy,Wednesday,Yes,22
+Yal Devi,Kankesanturai-MT-Lavania,31,rainy,Wednesday,No,13
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Wednesday,Yes,28
+Yal Devi,Kankesanturai-MT-Lavania,26,cloudy,Wednesday,No,14
+Yal Devi,Kankesanturai-MT-Lavania,29,sunny,Wednesday,Yes,13
+Yal Devi,Kankesanturai-MT-Lavania,33,cloudy,Wednesday,No,10
+Yal Devi,Kankesanturai-MT-Lavania,33,cloudy,Wednesday,Yes,34
+Yal Devi,Kankesanturai-MT-Lavania,24,cloudy,Wednesday,Yes,10
+Yal Devi,Kankesanturai-MT-Lavania,27,cloudy,Wednesday,Yes,18
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Wednesday,No,11
+Yal Devi,Kankesanturai-MT-Lavania,30,sunny,Wednesday,No,39
+Yal Devi,Kankesanturai-MT-Lavania,35,cloudy,Wednesday,No,4
+Yal Devi,Kankesanturai-MT-Lavania,32,sunny,Wednesday,No,23
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Wednesday,No,33
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Wednesday,No,17
+Yal Devi,Kankesanturai-MT-Lavania,35,cloudy,Wednesday,No,7
+Yal Devi,Kankesanturai-MT-Lavania,34,cloudy,Wednesday,Yes,33
+Yal Devi,Kankesanturai-MT-Lavania,30,sunny,Wednesday,No,41
+Yal Devi,Kankesanturai-MT-Lavania,31,rainy,Wednesday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,31,cloudy,Wednesday,Yes,7
+Yal Devi,Kankesanturai-MT-Lavania,35,sunny,Wednesday,No,20
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Wednesday,No,15
+Yal Devi,Kankesanturai-MT-Lavania,34,cloudy,Wednesday,No,0
+Yal Devi,Kankesanturai-MT-Lavania,30,cloudy,Wednesday,Yes,21
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Wednesday,Yes,15
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Wednesday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,31,sunny,Wednesday,Yes,6
+Yal Devi,Kankesanturai-MT-Lavania,29,cloudy,Wednesday,Yes,19
+Yal Devi,Kankesanturai-MT-Lavania,31,rainy,Wednesday,Yes,22
+Yal Devi,Kankesanturai-MT-Lavania,26,cloudy,Thursday,Yes,21
+Yal Devi,Kankesanturai-MT-Lavania,34,sunny,Thursday,Yes,11
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Thursday,No,22
+Yal Devi,Kankesanturai-MT-Lavania,31,sunny,Thursday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,31,rainy,Thursday,No,14
+Yal Devi,Kankesanturai-MT-Lavania,34,rainy,Thursday,Yes,12
+Yal Devi,Kankesanturai-MT-Lavania,24,cloudy,Thursday,No,0
+Yal Devi,Kankesanturai-MT-Lavania,26,rainy,Thursday,No,11
+Yal Devi,Kankesanturai-MT-Lavania,34,sunny,Thursday,Yes,16
+Yal Devi,Kankesanturai-MT-Lavania,31,rainy,Thursday,Yes,19
+Yal Devi,Kankesanturai-MT-Lavania,31,cloudy,Thursday,No,7
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Thursday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Thursday,Yes,22
+Yal Devi,Kankesanturai-MT-Lavania,26,cloudy,Thursday,No,17
+Yal Devi,Kankesanturai-MT-Lavania,34,rainy,Thursday,No,18
+Yal Devi,Kankesanturai-MT-Lavania,34,cloudy,Thursday,No,0
+Yal Devi,Kankesanturai-MT-Lavania,31,cloudy,Thursday,Yes,12
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Thursday,No,15
+Yal Devi,Kankesanturai-MT-Lavania,32,sunny,Thursday,Yes,3
+Yal Devi,Kankesanturai-MT-Lavania,33,sunny,Thursday,Yes,11
+Yal Devi,Kankesanturai-MT-Lavania,26,cloudy,Thursday,Yes,24
+Yal Devi,Kankesanturai-MT-Lavania,28,cloudy,Thursday,Yes,7
+Yal Devi,Kankesanturai-MT-Lavania,27,cloudy,Thursday,No,17
+Yal Devi,Kankesanturai-MT-Lavania,29,cloudy,Thursday,Yes,10
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Thursday,No,8
+Yal Devi,Kankesanturai-MT-Lavania,27,sunny,Thursday,No,0
+Yal Devi,Kankesanturai-MT-Lavania,26,cloudy,Thursday,No,25
+Yal Devi,Kankesanturai-MT-Lavania,33,sunny,Thursday,Yes,19
+Yal Devi,Kankesanturai-MT-Lavania,33,sunny,Thursday,Yes,12
+Yal Devi,Kankesanturai-MT-Lavania,30,sunny,Thursday,No,9
+Yal Devi,Kankesanturai-MT-Lavania,28,cloudy,Friday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,28,cloudy,Friday,Yes,6
+Yal Devi,Kankesanturai-MT-Lavania,30,cloudy,Friday,No,7
+Yal Devi,Kankesanturai-MT-Lavania,29,sunny,Friday,Yes,13
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Friday,Yes,2
+Yal Devi,Kankesanturai-MT-Lavania,26,sunny,Friday,No,17
+Yal Devi,Kankesanturai-MT-Lavania,34,cloudy,Friday,Yes,20
+Yal Devi,Kankesanturai-MT-Lavania,34,cloudy,Friday,No,40
+Yal Devi,Kankesanturai-MT-Lavania,35,cloudy,Friday,No,13
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Friday,No,13
+Yal Devi,Kankesanturai-MT-Lavania,35,cloudy,Friday,No,35
+Yal Devi,Kankesanturai-MT-Lavania,33,cloudy,Friday,Yes,25
+Yal Devi,Kankesanturai-MT-Lavania,32,rainy,Friday,Yes,8
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Friday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,27,sunny,Friday,No,11
+Yal Devi,Kankesanturai-MT-Lavania,29,rainy,Friday,No,14
+Yal Devi,Kankesanturai-MT-Lavania,33,cloudy,Friday,Yes,8
+Yal Devi,Kankesanturai-MT-Lavania,28,cloudy,Friday,Yes,9
+Yal Devi,Kankesanturai-MT-Lavania,25,cloudy,Friday,Yes,16
+Yal Devi,Kankesanturai-MT-Lavania,28,cloudy,Friday,Yes,15
+Yal Devi,Kankesanturai-MT-Lavania,30,rainy,Friday,No,35
+Yal Devi,Kankesanturai-MT-Lavania,35,sunny,Friday,Yes,20
+Yal Devi,Kankesanturai-MT-Lavania,31,cloudy,Friday,No,21
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Friday,No,20
+Yal Devi,Kankesanturai-MT-Lavania,33,cloudy,Friday,Yes,20
+Yal Devi,Kankesanturai-MT-Lavania,26,rainy,Friday,No,7
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Friday,Yes,20
+Yal Devi,Kankesanturai-MT-Lavania,29,cloudy,Friday,No,29
+Yal Devi,Kankesanturai-MT-Lavania,29,rainy,Friday,Yes,19
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Friday,Yes,17
+Yal Devi,Kankesanturai-MT-Lavania,25,cloudy,Saturday,No,12
+Yal Devi,Kankesanturai-MT-Lavania,27,rainy,Saturday,Yes,7
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Saturday,Yes,18
+Yal Devi,Kankesanturai-MT-Lavania,32,rainy,Saturday,Yes,12
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Saturday,No,14
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Saturday,No,14
+Yal Devi,Kankesanturai-MT-Lavania,33,sunny,Saturday,Yes,17
+Yal Devi,Kankesanturai-MT-Lavania,27,sunny,Saturday,No,5
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Saturday,Yes,12
+Yal Devi,Kankesanturai-MT-Lavania,32,rainy,Saturday,Yes,4
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Saturday,No,12
+Yal Devi,Kankesanturai-MT-Lavania,24,cloudy,Saturday,No,10
+Yal Devi,Kankesanturai-MT-Lavania,31,cloudy,Saturday,Yes,51
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Saturday,Yes,6
+Yal Devi,Kankesanturai-MT-Lavania,24,cloudy,Saturday,No,26
+Yal Devi,Kankesanturai-MT-Lavania,26,cloudy,Saturday,No,0
+Yal Devi,Kankesanturai-MT-Lavania,31,sunny,Saturday,No,15
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Saturday,Yes,8
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Saturday,Yes,27
+Yal Devi,Kankesanturai-MT-Lavania,30,sunny,Saturday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,31,rainy,Saturday,No,19
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Saturday,No,22
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Saturday,No,14
+Yal Devi,Kankesanturai-MT-Lavania,26,cloudy,Saturday,No,7
+Yal Devi,Kankesanturai-MT-Lavania,32,rainy,Saturday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,30,sunny,Saturday,Yes,20
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Saturday,Yes,22
+Yal Devi,Kankesanturai-MT-Lavania,34,cloudy,Saturday,No,17
+Yal Devi,Kankesanturai-MT-Lavania,33,rainy,Saturday,No,5
+Yal Devi,Kankesanturai-MT-Lavania,27,sunny,Saturday,Yes,18
+Yal Devi,Kankesanturai-MT-Lavania,34,cloudy,Sunday,Yes,31
+Yal Devi,Kankesanturai-MT-Lavania,24,cloudy,Sunday,Yes,18
+Yal Devi,Kankesanturai-MT-Lavania,25,sunny,Sunday,No,0
+Yal Devi,Kankesanturai-MT-Lavania,34,rainy,Sunday,Yes,19
+Yal Devi,Kankesanturai-MT-Lavania,35,rainy,Sunday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,35,rainy,Sunday,No,7
+Yal Devi,Kankesanturai-MT-Lavania,35,rainy,Sunday,Yes,23
+Yal Devi,Kankesanturai-MT-Lavania,27,cloudy,Sunday,Yes,3
+Yal Devi,Kankesanturai-MT-Lavania,32,cloudy,Sunday,No,29
+Yal Devi,Kankesanturai-MT-Lavania,33,rainy,Sunday,Yes,6
+Yal Devi,Kankesanturai-MT-Lavania,33,cloudy,Sunday,Yes,15
+Yal Devi,Kankesanturai-MT-Lavania,25,rainy,Sunday,No,9
+Yal Devi,Kankesanturai-MT-Lavania,28,cloudy,Sunday,Yes,15
+Yal Devi,Kankesanturai-MT-Lavania,31,cloudy,Sunday,Yes,0
+Yal Devi,Kankesanturai-MT-Lavania,35,rainy,Sunday,Yes,4
+Yal Devi,Kankesanturai-MT-Lavania,30,sunny,Sunday,No,13
+Yal Devi,Kankesanturai-MT-Lavania,28,cloudy,Sunday,No,11
+Yal Devi,Kankesanturai-MT-Lavania,29,cloudy,Sunday,No,10
+Yal Devi,Kankesanturai-MT-Lavania,24,rainy,Sunday,Yes,8
+Yal Devi,Kankesanturai-MT-Lavania,35,sunny,Sunday,Yes,8
+Yal Devi,Kankesanturai-MT-Lavania,32,rainy,Sunday,No,24
+Yal Devi,Kankesanturai-MT-Lavania,29,cloudy,Sunday,No,24
+Yal Devi,Kankesanturai-MT-Lavania,35,sunny,Sunday,No,17
+Yal Devi,Kankesanturai-MT-Lavania,32,rainy,Sunday,Yes,25
+Yal Devi,Kankesanturai-MT-Lavania,35,rainy,Sunday,Yes,25
+Yal Devi,Kankesanturai-MT-Lavania,28,sunny,Sunday,Yes,10
+Yal Devi,Kankesanturai-MT-Lavania,27,sunny,Sunday,Yes,24
+Yal Devi,Kankesanturai-MT-Lavania,28,rainy,Sunday,No,1
+Yal Devi,Kankesanturai-MT-Lavania,24,sunny,Sunday,No,22
+Yal Devi,Kankesanturai-MT-Lavania,35,rainy,Sunday,No,0
+Udarata Menike,Badulla–Colombo,24,rainy,Tuesday,No,23
+Udarata Menike,Colombo–Badulla,28,cloudy,Wednesday,No,3
+Udarata Menike,Badulla–Colombo,28,cloudy,Wednesday,No,8
+Udarata Menike,Colombo–Badulla,32,cloudy,Thursday,No,0
+Udarata Menike,Badulla–Colombo,32,cloudy,Thursday,No,8
+Udarata Menike,Colombo–Badulla,27,rainy,Friday,No,19
+Udarata Menike,Badulla–Colombo,27,rainy,Friday,No,7
+Udarata Menike,Colombo–Badulla,23,sunny,Saturday,No,0
+Udarata Menike,Badulla–Colombo,23,sunny,Saturday,No,2
+Udarata Menike,Colombo–Badulla,24,sunny,Sunday,No,1
+Udarata Menike,Badulla–Colombo,24,sunny,Sunday,No,0
+Udarata Menike,Colombo–Badulla,26,sunny,Monday,No,0
+Udarata Menike,Badulla–Colombo,26,sunny,Monday,No,2
+Udarata Menike,Colombo–Badulla,24,cloudy,Tuesday,No,15
+Udarata Menike,Badulla–Colombo,24,cloudy,Tuesday,No,0
+Udarata Menike,Colombo–Badulla,31,cloudy,Wednesday,No,10
+Udarata Menike,Badulla–Colombo,31,cloudy,Wednesday,No,8
+Udarata Menike,Colombo–Badulla,27,sunny,Thursday,No,2
+Udarata Menike,Badulla–Colombo,27,sunny,Thursday,No,6
+Udarata Menike,Colombo–Badulla,26,cloudy,Friday,No,15
+Udarata Menike,Badulla–Colombo,26,cloudy,Friday,No,4
+Udarata Menike,Colombo–Badulla,32,rainy,Saturday,No,8
+Udarata Menike,Badulla–Colombo,32,rainy,Saturday,No,18
+Udarata Menike,Colombo–Badulla,22,sunny,Sunday,No,0
+Udarata Menike,Badulla–Colombo,22,sunny,Sunday,No,3
+Udarata Menike,Colombo–Badulla,25,sunny,Monday,No,0
+Udarata Menike,Badulla–Colombo,25,sunny,Monday,No,2
+Udarata Menike,Colombo–Badulla,29,rainy,Tuesday,No,6
+Udarata Menike,Badulla–Colombo,29,rainy,Tuesday,No,25
+Udarata Menike,Colombo–Badulla,25,cloudy,Wednesday,No,5
+Udarata Menike,Badulla–Colombo,25,cloudy,Wednesday,No,5
+Udarata Menike,Colombo–Badulla,32,rainy,Thursday,No,17
+Udarata Menike,Badulla–Colombo,32,rainy,Thursday,No,24
+Udarata Menike,Colombo–Badulla,24,cloudy,Friday,No,14
+Udarata Menike,Badulla–Colombo,24,cloudy,Friday,No,4
+Udarata Menike,Colombo–Badulla,31,cloudy,Saturday,No,8
+Udarata Menike,Badulla–Colombo,31,cloudy,Saturday,No,2
+Udarata Menike,Colombo–Badulla,30,sunny,Sunday,No,0
+Udarata Menike,Badulla–Colombo,30,sunny,Sunday,No,1
+Udarata Menike,Colombo–Badulla,22,sunny,Monday,No,2
+Udarata Menike,Badulla–Colombo,22,sunny,Monday,No,0
+Udarata Menike,Colombo–Badulla,31,rainy,Tuesday,No,13
+Udarata Menike,Badulla–Colombo,31,rainy,Tuesday,No,19
+Udarata Menike,Colombo–Badulla,22,cloudy,Wednesday,No,6
+Udarata Menike,Badulla–Colombo,22,cloudy,Wednesday,No,17
+Udarata Menike,Colombo–Badulla,24,cloudy,Thursday,No,5
+Udarata Menike,Badulla–Colombo,24,cloudy,Thursday,No,13
+Udarata Menike,Colombo–Badulla,29,cloudy,Friday,No,3
